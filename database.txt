@@ -1,0 +1,879 @@
+Character "Scrop": Damage: 7,75, Defense: 7,5, Energy Rate: 1,8 Move Speed: 4,5, Beast: False
+Character "<color=yellow><size=8>Renegade</size></color>-break-God Crystal": Damage: 9,75, Defense: 2,8, Energy Rate: 3,8 Move Speed: 2,5, Beast: False
+Character "<color=yellow><size=8>Renegade</size></color>-break-God Crystal": Damage: 13,25, Defense: 6, Energy Rate: 3,5 Move Speed: 3,5, Beast: False
+Character "<color=yellow><size=8>Renegade</size></color>-break-God Crystal": Damage: 17, Defense: 8,25, Energy Rate: 3 Move Speed: 4,5, Beast: False
+Character "<color=yellow><size=8>Renegade</size></color>-break-God Crystal": Damage: 20, Defense: 10,2, Energy Rate: 2,8 Move Speed: 4,8, Beast: False
+Character "<color=yellow><size=8>Doom's Experiment</size></color>-break-God Crystal": Damage: 14,25, Defense: 12,5, Energy Rate: 3,8 Move Speed: 3,2, Beast: False
+Character "God Crystal": Damage: 9,25, Defense: 3, Energy Rate: 4 Move Speed: 2,5, Beast: False
+Character "God Crystal": Damage: 13,25, Defense: 6, Energy Rate: 3,5 Move Speed: 3,5, Beast: False
+Character "God Crystal": Damage: 17, Defense: 8,25, Energy Rate: 3 Move Speed: 4,5, Beast: False
+Character "God Crystal": Damage: 19,5, Defense: 10,5, Energy Rate: 3 Move Speed: 4,8, Beast: False
+Character "Doppio": Damage: 4, Defense: 3,25, Energy Rate: 4 Move Speed: 3,5, Beast: False
+Character "Dark Connor": Damage: 15, Defense: 14, Energy Rate: 2,75 Move Speed: 4,5, Beast: False
+Character "Connor": Damage: 11,5, Defense: 13, Energy Rate: 2,75 Move Speed: 3,5, Beast: False
+Character "Evil Haikko": Damage: 8,25, Defense: 2, Energy Rate: 4 Move Speed: 2,5, Beast: False
+Character "Evil Haikko": Damage: 10,25, Defense: 3,25, Energy Rate: 3,2 Move Speed: 3, Beast: False
+Character "Evil Haikko": Damage: 12,25, Defense: 4,5, Energy Rate: 2,5 Move Speed: 3,5, Beast: False
+Character "Evil Haikko": Damage: 14,25, Defense: 6, Energy Rate: 2,4 Move Speed: 4, Beast: False
+Character "Evil Haikko": Damage: 16,25, Defense: 7, Energy Rate: 2,3 Move Speed: 4,5, Beast: False
+Character "Evil Haikko": Damage: 18,25, Defense: 8,5, Energy Rate: 2,2 Move Speed: 4,5, Beast: False
+Character "Evil Haikko": Damage: 19, Defense: 11, Energy Rate: 2,8 Move Speed: 4,5, Beast: False
+Character "Haikko": Damage: 8, Defense: 2,25, Energy Rate: 4 Move Speed: 2,5, Beast: False
+Character "Haikko": Damage: 10, Defense: 3,5, Energy Rate: 3,6 Move Speed: 2,5, Beast: False
+Character "Haikko": Damage: 12, Defense: 5, Energy Rate: 3,2 Move Speed: 3, Beast: False
+Character "Haikko": Damage: 14, Defense: 6,5, Energy Rate: 3 Move Speed: 4, Beast: False
+Character "Haikko": Damage: 16, Defense: 8, Energy Rate: 3 Move Speed: 4,5, Beast: False
+Character "Haikko": Damage: 18, Defense: 9, Energy Rate: 3 Move Speed: 4,5, Beast: False
+Character "Haikko": Damage: 19, Defense: 10, Energy Rate: 3,2 Move Speed: 4,5, Beast: False
+Character "Ray": Damage: 8,5, Defense: 2, Energy Rate: 4 Move Speed: 2,5, Beast: False
+Character "Ray": Damage: 10, Defense: 3,5, Energy Rate: 3,6 Move Speed: 2,5, Beast: False
+Character "Ray": Damage: 12, Defense: 5, Energy Rate: 3,2 Move Speed: 3, Beast: False
+Character "Ray": Damage: 14, Defense: 6,5, Energy Rate: 3 Move Speed: 4, Beast: False
+Character "Ray": Damage: 16, Defense: 8, Energy Rate: 3 Move Speed: 4,5, Beast: False
+Character "Ray": Damage: 18,5, Defense: 8,5, Energy Rate: 3 Move Speed: 4,5, Beast: False
+Character "Ray": Damage: 19,5, Defense: 9,5, Energy Rate: 3,2 Move Speed: 4,5, Beast: False
+Character "Katalyst": Damage: 13,25, Defense: 12,75, Energy Rate: 3,2 Move Speed: 4,5, Beast: False
+Character "Bl4ckCrystal": Damage: 3, Defense: 3,25, Energy Rate: 4 Move Speed: 2,5, Beast: False
+Character "Bl4ckCrystal": Damage: 5,5, Defense: 3, Energy Rate: 3,2 Move Speed: 2,5, Beast: False
+Character "Bl4ckCrystal": Damage: 7,5, Defense: 4,5, Energy Rate: 2,5 Move Speed: 3, Beast: False
+Character "Bl4ckCrystal": Damage: 10, Defense: 6, Energy Rate: 2,2 Move Speed: 4, Beast: False
+Character "Bl4ckCrystal": Damage: 11,75, Defense: 8,5, Energy Rate: 1,8 Move Speed: 4,5, Beast: False
+Character "Bl4ckCrystal": Damage: 13,75, Defense: 10,5, Energy Rate: 2,9 Move Speed: 4,5, Beast: False
+Character "Bl4ckCrystal": Damage: 17,5, Defense: 11,5, Energy Rate: 3,2 Move Speed: 4,5, Beast: False
+Character "Evil Street": Damage: 9,75, Defense: 2,5, Energy Rate: 4 Move Speed: 2,5, Beast: False
+Character "Evil Street": Damage: 10, Defense: 3,75, Energy Rate: 3,2 Move Speed: 3, Beast: False
+Character "Evil Street": Damage: 14, Defense: 5, Energy Rate: 2,5 Move Speed: 3,5, Beast: False
+Character "Evil Street": Damage: 16, Defense: 6, Energy Rate: 2,4 Move Speed: 4, Beast: False
+Character "Evil Street": Damage: 18, Defense: 7, Energy Rate: 2,3 Move Speed: 4,5, Beast: False
+Character "Evil Street": Damage: 19,25, Defense: 9,25, Energy Rate: 2,2 Move Speed: 4,5, Beast: False
+Character "Evil Street": Damage: 20,5, Defense: 10,25, Energy Rate: 2,5 Move Speed: 4,5, Beast: False
+Character "Street": Damage: 3,5, Defense: 2,5, Energy Rate: 4 Move Speed: 2,5, Beast: False
+Character "Street": Damage: 5,25, Defense: 3, Energy Rate: 3,2 Move Speed: 2,5, Beast: False
+Character "Street": Damage: 7,5, Defense: 4,5, Energy Rate: 2,5 Move Speed: 3, Beast: False
+Character "Street": Damage: 9,5, Defense: 6,5, Energy Rate: 2,2 Move Speed: 4, Beast: False
+Character "Street": Damage: 11,5, Defense: 8,5, Energy Rate: 1,8 Move Speed: 4,5, Beast: False
+Character "Street": Damage: 13,25, Defense: 11, Energy Rate: 2,9 Move Speed: 4,5, Beast: False
+Character "Street": Damage: 15,25, Defense: 12,5, Energy Rate: 3,2 Move Speed: 4,5, Beast: False
+Character "Street": Damage: 3,5, Defense: 2,5, Energy Rate: 4 Move Speed: 2,5, Beast: False
+Character "Street": Damage: 5,25, Defense: 3, Energy Rate: 3,2 Move Speed: 2,5, Beast: False
+Character "Street": Damage: 7,5, Defense: 4,5, Energy Rate: 2,5 Move Speed: 3, Beast: False
+Character "Street": Damage: 9,5, Defense: 6,5, Energy Rate: 2,2 Move Speed: 4, Beast: False
+Character "Street": Damage: 11,5, Defense: 8,5, Energy Rate: 1,8 Move Speed: 4,5, Beast: False
+Character "Street": Damage: 13,25, Defense: 11, Energy Rate: 2,9 Move Speed: 4,5, Beast: False
+Character "Street": Damage: 15,25, Defense: 12,5, Energy Rate: 3,2 Move Speed: 4,5, Beast: False
+Character "Beast Kaeb": Damage: 16, Defense: 3,375, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Kaeb": Damage: 20, Defense: 5,25, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Kaeb": Damage: 24, Defense: 7,5, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Kaeb": Damage: 28, Defense: 9,75, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Kaeb": Damage: 32, Defense: 12, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Kaeb": Damage: 36, Defense: 13,5, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Kaeb": Damage: 38, Defense: 15, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Kaeb": Damage: 8, Defense: 2,25, Energy Rate: 4 Move Speed: 2,5, Beast: False
+Character "Kaeb": Damage: 10, Defense: 3,5, Energy Rate: 3,6 Move Speed: 2,5, Beast: False
+Character "Kaeb": Damage: 12, Defense: 5, Energy Rate: 3,8 Move Speed: 3, Beast: False
+Character "Kaeb": Damage: 14, Defense: 6,5, Energy Rate: 3 Move Speed: 4, Beast: False
+Character "Kaeb": Damage: 16, Defense: 8, Energy Rate: 3 Move Speed: 4,5, Beast: False
+Character "Kaeb": Damage: 18, Defense: 9, Energy Rate: 3 Move Speed: 4,5, Beast: False
+Character "Kaeb": Damage: 19, Defense: 10, Energy Rate: 3,2 Move Speed: 4,5, Beast: False
+Character "Oliver": Damage: 6, Defense: 2,25, Energy Rate: 4 Move Speed: 2,5, Beast: False
+Character "Oliver": Damage: 8, Defense: 3,5, Energy Rate: 4 Move Speed: 2,5, Beast: False
+Character "Oliver": Damage: 10, Defense: 5, Energy Rate: 4 Move Speed: 3, Beast: False
+Character "Oliver": Damage: 12, Defense: 6,5, Energy Rate: 4 Move Speed: 4, Beast: False
+Character "Oliver": Damage: 14, Defense: 8, Energy Rate: 4 Move Speed: 4,5, Beast: False
+Character "Oliver": Damage: 16, Defense: 9, Energy Rate: 4 Move Speed: 4,5, Beast: False
+Character "Oliver": Damage: 17, Defense: 10, Energy Rate: 4 Move Speed: 4,5, Beast: False
+Character "Inazuma": Damage: 4, Defense: 2, Energy Rate: 4 Move Speed: 2,5, Beast: False
+Character "Inazuma": Damage: 6, Defense: 2, Energy Rate: 3,2 Move Speed: 2,5, Beast: False
+Character "Inazuma": Damage: 8, Defense: 4, Energy Rate: 2,5 Move Speed: 3, Beast: False
+Character "Inazuma": Damage: 10, Defense: 6, Energy Rate: 2,2 Move Speed: 3,5, Beast: False
+Character "Inazuma": Damage: 12, Defense: 8, Energy Rate: 2,8 Move Speed: 4, Beast: False
+Character "Inazuma": Damage: 14, Defense: 10, Energy Rate: 2,9 Move Speed: 4,5, Beast: False
+Character "Inazuma": Damage: 16, Defense: 12, Energy Rate: 3 Move Speed: 4,5, Beast: False
+Character "Nasty": Damage: 4, Defense: 2, Energy Rate: 4 Move Speed: 2,5, Beast: False
+Character "Nasty": Damage: 6, Defense: 2, Energy Rate: 3,2 Move Speed: 2,5, Beast: False
+Character "Nasty": Damage: 8, Defense: 4, Energy Rate: 2,5 Move Speed: 3, Beast: False
+Character "Nasty": Damage: 10, Defense: 6, Energy Rate: 2,2 Move Speed: 3,5, Beast: False
+Character "Nasty": Damage: 12, Defense: 8, Energy Rate: 2,8 Move Speed: 4, Beast: False
+Character "Nasty": Damage: 14, Defense: 10, Energy Rate: 2,9 Move Speed: 4,5, Beast: False
+Character "Nasty": Damage: 16, Defense: 12, Energy Rate: 3 Move Speed: 4,5, Beast: False
+Character "Evil Kyeran": Damage: 8,75, Defense: 2, Energy Rate: 4 Move Speed: 2,5, Beast: False
+Character "Evil Kyeran": Damage: 11, Defense: 3, Energy Rate: 3,2 Move Speed: 2,5, Beast: False
+Character "Evil Kyeran": Damage: 13, Defense: 4, Energy Rate: 2,8 Move Speed: 3, Beast: False
+Character "Evil Kyeran": Damage: 15, Defense: 6, Energy Rate: 2,5 Move Speed: 4, Beast: False
+Character "Evil Kyeran": Damage: 17, Defense: 7, Energy Rate: 2,5 Move Speed: 4,5, Beast: False
+Character "Evil Kyeran": Damage: 19, Defense: 8, Energy Rate: 2,5 Move Speed: 4,5, Beast: False
+Character "Evil Kyeran": Damage: 20, Defense: 9, Energy Rate: 2,5 Move Speed: 4,5, Beast: False
+Character "Zacky": Damage: 6, Defense: 2, Energy Rate: 4 Move Speed: 2,5, Beast: False
+Character "Zacky": Damage: 8, Defense: 4, Energy Rate: 3,2 Move Speed: 2,5, Beast: False
+Character "Zacky": Damage: 10, Defense: 6, Energy Rate: 2,8 Move Speed: 3, Beast: False
+Character "Zacky": Damage: 12, Defense: 8, Energy Rate: 2,2 Move Speed: 4, Beast: False
+Character "Zacky": Damage: 14, Defense: 9, Energy Rate: 2 Move Speed: 4,5, Beast: False
+Character "Zacky": Damage: 16,5, Defense: 11,5, Energy Rate: 2 Move Speed: 4,5, Beast: False
+Character "Zacky": Damage: 18, Defense: 13, Energy Rate: 2 Move Speed: 4,5, Beast: False
+Character "Gooey": Damage: 3,75, Defense: 2,75, Energy Rate: 3,1 Move Speed: 2,5, Beast: False
+Character "Gooey": Damage: 5,25, Defense: 3,5, Energy Rate: 3,1 Move Speed: 2,5, Beast: False
+Character "Gooey": Damage: 7, Defense: 6, Energy Rate: 3,1 Move Speed: 2,5, Beast: False
+Character "Gooey": Damage: 9,25, Defense: 8,5, Energy Rate: 3,1 Move Speed: 3,5, Beast: False
+Character "Gooey": Damage: 12,75, Defense: 11,25, Energy Rate: 3,1 Move Speed: 4, Beast: False
+Character "DarkSide": Damage: 4,75, Defense: 2, Energy Rate: 4 Move Speed: 2,5, Beast: False
+Character "DarkSide": Damage: 6,25, Defense: 3, Energy Rate: 3,2 Move Speed: 2,5, Beast: False
+Character "DarkSide": Damage: 8,75, Defense: 4,75, Energy Rate: 2,8 Move Speed: 3, Beast: False
+Character "DarkSide": Damage: 10,25, Defense: 7,5, Energy Rate: 2,2 Move Speed: 4, Beast: False
+Character "DarkSide": Damage: 14,5, Defense: 11, Energy Rate: 2 Move Speed: 4,5, Beast: False
+Character "DarkSide": Damage: 16,25, Defense: 12,5, Energy Rate: 2 Move Speed: 4,5, Beast: False
+Character "Noah": Damage: 8,25, Defense: 2, Energy Rate: 4 Move Speed: 2,5, Beast: False
+Character "Noah": Damage: 10,25, Defense: 3,25, Energy Rate: 3,2 Move Speed: 2,5, Beast: False
+Character "Noah": Damage: 12,25, Defense: 4,75, Energy Rate: 2,8 Move Speed: 3, Beast: False
+Character "Noah": Damage: 14,25, Defense: 7, Energy Rate: 2,2 Move Speed: 4, Beast: False
+Character "Noah": Damage: 16,25, Defense: 8,5, Energy Rate: 2 Move Speed: 4,5, Beast: False
+Character "Noah": Damage: 18,25, Defense: 9,75, Energy Rate: 2 Move Speed: 4,5, Beast: False
+Character "Ender Beast": Damage: 9, Defense: 3,375, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Ender Beast": Damage: 12, Defense: 4,875, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Ender Beast": Damage: 17, Defense: 7,5, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Ender Beast": Damage: 20, Defense: 12, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Ender Beast": Damage: 26,5, Defense: 16,5, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Ender Beast": Damage: 28,5, Defense: 18, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Ender Beast": Damage: 32, Defense: 20,25, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Ender": Damage: 4,5, Defense: 2,25, Energy Rate: 4 Move Speed: 2,5, Beast: False
+Character "Ender": Damage: 6, Defense: 3,25, Energy Rate: 3,2 Move Speed: 2,5, Beast: False
+Character "Ender": Damage: 8,5, Defense: 5, Energy Rate: 2,8 Move Speed: 3, Beast: False
+Character "Ender": Damage: 10, Defense: 8, Energy Rate: 2,2 Move Speed: 4, Beast: False
+Character "Ender": Damage: 13,25, Defense: 11, Energy Rate: 2 Move Speed: 4,5, Beast: False
+Character "Ender": Damage: 14,25, Defense: 12, Energy Rate: 2 Move Speed: 4,5, Beast: False
+Character "Ender": Damage: 16, Defense: 13,5, Energy Rate: 2,5 Move Speed: 4,5, Beast: False
+Character "Krytos": Damage: 3,5, Defense: 1,7, Energy Rate: 4 Move Speed: 2,5, Beast: False
+Character "Krytos": Damage: 5, Defense: 2,25, Energy Rate: 3,2 Move Speed: 2,5, Beast: False
+Character "Krytos": Damage: 7,5, Defense: 4, Energy Rate: 2,8 Move Speed: 3, Beast: False
+Character "Krytos": Damage: 10, Defense: 7, Energy Rate: 2,2 Move Speed: 4, Beast: False
+Character "Krytos": Damage: 13, Defense: 10, Energy Rate: 2 Move Speed: 4,5, Beast: False
+Character "Krytos": Damage: 14, Defense: 11, Energy Rate: 2 Move Speed: 4,5, Beast: False
+Character "Krytos": Damage: 15, Defense: 12, Energy Rate: 2,5 Move Speed: 4,5, Beast: False
+Character "Prismar": Damage: 2,75, Defense: 1,75, Energy Rate: 4 Move Speed: 2,5, Beast: False
+Character "Prismar": Damage: 3,75, Defense: 2,75, Energy Rate: 3,2 Move Speed: 2,5, Beast: False
+Character "Prismar": Damage: 5,75, Defense: 4,75, Energy Rate: 2,5 Move Speed: 3, Beast: False
+Character "Prismar": Damage: 8,75, Defense: 7,75, Energy Rate: 2,2 Move Speed: 4, Beast: False
+Character "Prismar": Damage: 11,75, Defense: 9,75, Energy Rate: 2,2 Move Speed: 4,5, Beast: False
+Character "Prismar": Damage: 12,75, Defense: 11,25, Energy Rate: 2,2 Move Speed: 4,5, Beast: False
+Character "Seinshi": Damage: 2, Defense: 4, Energy Rate: 4 Move Speed: 2,5, Beast: False
+Character "Seinshi": Damage: 3,5, Defense: 5,5, Energy Rate: 3,2 Move Speed: 2,5, Beast: False
+Character "Seinshi": Damage: 5,25, Defense: 7,75, Energy Rate: 2,5 Move Speed: 3, Beast: False
+Character "Seinshi": Damage: 7,25, Defense: 9,75, Energy Rate: 2,2 Move Speed: 4, Beast: False
+Character "Seinshi": Damage: 9,75, Defense: 11,75, Energy Rate: 2,2 Move Speed: 4,5, Beast: False
+Character "Seinshi": Damage: 11,25, Defense: 13, Energy Rate: 2,2 Move Speed: 4,5, Beast: False
+Character "Zoll": Damage: 2,25, Defense: 1,75, Energy Rate: 4 Move Speed: 2,5, Beast: False
+Character "Zoll": Damage: 3,25, Defense: 3,25, Energy Rate: 3,2 Move Speed: 2,5, Beast: False
+Character "Zoll": Damage: 4,25, Defense: 4,25, Energy Rate: 2,5 Move Speed: 3, Beast: False
+Character "Zoll": Damage: 6,25, Defense: 6,25, Energy Rate: 2,2 Move Speed: 4, Beast: False
+Character "Zoll": Damage: 9,25, Defense: 8,25, Energy Rate: 2,2 Move Speed: 4,5, Beast: False
+Character "Beast Kyeran Kral Form 1": Damage: 16, Defense: 3,375, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Kyeran Kral Form 2": Damage: 20, Defense: 5,25, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Kyeran Kral Form 3": Damage: 24, Defense: 7,5, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Kyeran Kral Form 4": Damage: 28, Defense: 9,75, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Kyeran Kral Form 5": Damage: 32, Defense: 12, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Kyeran Kral Form 6": Damage: 36, Defense: 13,5, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Kyeran Kral Form 7": Damage: 38, Defense: 15, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Kyeran Kral": Damage: 8, Defense: 2,25, Energy Rate: 4 Move Speed: 2,5, Beast: False
+Character "Kyeran Kral": Damage: 10, Defense: 3,5, Energy Rate: 3,2 Move Speed: 2,5, Beast: False
+Character "Kyeran Kral": Damage: 12, Defense: 5, Energy Rate: 2,8 Move Speed: 3, Beast: False
+Character "Kyeran Kral": Damage: 14, Defense: 6,5, Energy Rate: 2,2 Move Speed: 4, Beast: False
+Character "Kyeran Kral": Damage: 16, Defense: 8, Energy Rate: 2 Move Speed: 4,5, Beast: False
+Character "Kyeran Kral": Damage: 18, Defense: 9, Energy Rate: 2 Move Speed: 4,5, Beast: False
+Character "Kyeran Kral": Damage: 19, Defense: 10, Energy Rate: 2,5 Move Speed: 4,5, Beast: False
+Character "Beast Ezra Form 1": Damage: 5,8, Defense: 2,7, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Ezra Form 2": Damage: 8,5, Defense: 4,125, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Ezra Form 3": Damage: 13,5, Defense: 6,75, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Ezra Form 4": Damage: 19, Defense: 11,25, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Ezra Form 5": Damage: 25, Defense: 15,75, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Ezra Form 6": Damage: 27, Defense: 17,25, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Ezra Form 7": Damage: 29, Defense: 18,75, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Ezra": Damage: 2,9, Defense: 1,8, Energy Rate: 4 Move Speed: 2,5, Beast: False
+Character "Ezra": Damage: 4,25, Defense: 2,75, Energy Rate: 3,2 Move Speed: 2,5, Beast: False
+Character "Ezra": Damage: 6,75, Defense: 4,5, Energy Rate: 2,8 Move Speed: 3, Beast: False
+Character "Ezra": Damage: 9,5, Defense: 7,5, Energy Rate: 2,2 Move Speed: 4, Beast: False
+Character "Ezra": Damage: 12,5, Defense: 10,5, Energy Rate: 2 Move Speed: 4,5, Beast: False
+Character "Ezra": Damage: 13,5, Defense: 11,5, Energy Rate: 2 Move Speed: 4,5, Beast: False
+Character "Ezra": Damage: 14,5, Defense: 12,5, Energy Rate: 2,5 Move Speed: 4,5, Beast: False
+Character "Beast The Dark One Form 1": Damage: 20, Defense: 3,75, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast The Dark One Form 2": Damage: 24, Defense: 6, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast The Dark One Form 3": Damage: 28, Defense: 8,25, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast The Dark One Form 4": Damage: 32, Defense: 9,375, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast The Dark One Form 5": Damage: 36, Defense: 10,875, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast The Dark One Form 6": Damage: 40, Defense: 12, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast The Dark One Form 7": Damage: 43, Defense: 13,5, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "The Dark One": Damage: 10, Defense: 2,5, Energy Rate: 4 Move Speed: 2,5, Beast: False
+Character "The Dark One": Damage: 12, Defense: 4, Energy Rate: 3,2 Move Speed: 2,5, Beast: False
+Character "The Dark One": Damage: 14, Defense: 5,5, Energy Rate: 2,8 Move Speed: 3, Beast: False
+Character "The Dark One": Damage: 16, Defense: 6,25, Energy Rate: 2,8 Move Speed: 4, Beast: False
+Character "The Dark One": Damage: 18, Defense: 7,25, Energy Rate: 2,8 Move Speed: 4,5, Beast: False
+Character "The Dark One": Damage: 20, Defense: 8, Energy Rate: 2,8 Move Speed: 4,5, Beast: False
+Character "The Dark One": Damage: 21,5, Defense: 9, Energy Rate: 2,8 Move Speed: 4,5, Beast: False
+Character "Beast Niel Form 1": Damage: 3,5, Defense: 3,75, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Niel Form 2": Damage: 5, Defense: 5,625, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Niel Form 3": Damage: 8,2, Defense: 7,125, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Niel Form 4": Damage: 12,6, Defense: 8,625, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Niel Form 5": Damage: 17,6, Defense: 10,95, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Niel": Damage: 1,75, Defense: 2,5, Energy Rate: 4,5 Move Speed: 2,5, Beast: False
+Character "Niel": Damage: 2,5, Defense: 3,75, Energy Rate: 4,1 Move Speed: 3, Beast: False
+Character "Niel": Damage: 4,1, Defense: 4,75, Energy Rate: 3,6 Move Speed: 3,5, Beast: False
+Character "Niel": Damage: 6,3, Defense: 5,75, Energy Rate: 3,2 Move Speed: 4, Beast: False
+Character "Niel": Damage: 8,8, Defense: 7,3, Energy Rate: 3 Move Speed: 4,5, Beast: False
+Character "Beast Neo Form 1": Damage: 4, Defense: 2,25, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Neo Form 2": Damage: 5, Defense: 2,25, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Neo Form 3": Damage: 10, Defense: 5,625, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Neo Form 4": Damage: 14, Defense: 8,625, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Neo Form 5": Damage: 22, Defense: 12,375, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Neo": Damage: 2, Defense: 1,5, Energy Rate: 4 Move Speed: 3, Beast: False
+Character "Neo": Damage: 2,5, Defense: 1,5, Energy Rate: 3,5 Move Speed: 3,5, Beast: False
+Character "Neo": Damage: 5, Defense: 3,75, Energy Rate: 3,2 Move Speed: 4, Beast: False
+Character "Neo": Damage: 7, Defense: 5,75, Energy Rate: 2,8 Move Speed: 4,5, Beast: False
+Character "Neo": Damage: 11, Defense: 8,25, Energy Rate: 2,3 Move Speed: 5, Beast: False
+Character "Beast Daruma Form 1": Damage: 6,2, Defense: 1,875, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Daruma Form 2": Damage: 11, Defense: 3,75, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Daruma Form 3": Damage: 16, Defense: 5,625, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Daruma Form 4": Damage: 21, Defense: 9, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Daruma Form 5": Damage: 27, Defense: 10,875, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Daruma": Damage: 3,1, Defense: 1,25, Energy Rate: 3,5 Move Speed: 2, Beast: False
+Character "Daruma": Damage: 5,5, Defense: 2,5, Energy Rate: 3 Move Speed: 2,5, Beast: False
+Character "Daruma": Damage: 8, Defense: 3,75, Energy Rate: 2,65 Move Speed: 3, Beast: False
+Character "Daruma": Damage: 10,5, Defense: 6, Energy Rate: 2,35 Move Speed: 3,5, Beast: False
+Character "Daruma": Damage: 13,5, Defense: 7,25, Energy Rate: 2 Move Speed: 4, Beast: False
+Character "Beast Bruce Form 1": Damage: 3,5, Defense: 7,5, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Bruce Form 2": Damage: 6, Defense: 10,5, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Bruce Form 3": Damage: 8,5, Defense: 13,5, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Bruce Form 4": Damage: 12,5, Defense: 16,5, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Bruce Form 5": Damage: 17,5, Defense: 19,5, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Bruce": Damage: 1,75, Defense: 5, Energy Rate: 3,5 Move Speed: 2,5, Beast: False
+Character "Bruce": Damage: 3, Defense: 7, Energy Rate: 3 Move Speed: 2,75, Beast: False
+Character "Bruce": Damage: 4,25, Defense: 9, Energy Rate: 2,65 Move Speed: 3, Beast: False
+Character "Bruce": Damage: 6,25, Defense: 11, Energy Rate: 2,35 Move Speed: 3,5, Beast: False
+Character "Bruce": Damage: 8,75, Defense: 13, Energy Rate: 2 Move Speed: 4, Beast: False
+Character "Beast Tigre Form 1": Damage: 21, Defense: 6,75, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Tigre Form 1": Damage: 37, Defense: 14,25, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Tigre Chaos": Damage: 10,5, Defense: 4,5, Energy Rate: 3,75 Move Speed: 3,5, Beast: False
+Character "Tigre Chaos": Damage: 18,5, Defense: 9,5, Energy Rate: 3,75 Move Speed: 3,5, Beast: False
+Character "Beast Tigre Form 1": Damage: 18, Defense: 4,5, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Tigre Form 2": Damage: 22, Defense: 6,75, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Tigre Form 3": Damage: 26, Defense: 9, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Tigre Form 4": Damage: 30, Defense: 10,5, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Tigre Form 5": Damage: 34, Defense: 12, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Tigre Form 6": Damage: 38, Defense: 13,5, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Tigre Form 7": Damage: 41, Defense: 15, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Tigre": Damage: 9, Defense: 3, Energy Rate: 4 Move Speed: 2,5, Beast: False
+Character "Tigre": Damage: 11, Defense: 4,5, Energy Rate: 3,2 Move Speed: 2,5, Beast: False
+Character "Tigre": Damage: 13, Defense: 6, Energy Rate: 2,8 Move Speed: 3, Beast: False
+Character "Tigre": Damage: 15, Defense: 7, Energy Rate: 2,5 Move Speed: 4, Beast: False
+Character "Tigre": Damage: 17, Defense: 8, Energy Rate: 2,5 Move Speed: 4,5, Beast: False
+Character "Tigre": Damage: 19, Defense: 9, Energy Rate: 2,5 Move Speed: 4,5, Beast: False
+Character "Tigre": Damage: 20,5, Defense: 10, Energy Rate: 2,5 Move Speed: 4,5, Beast: False
+Character "Beast Dante Form 1": Damage: 5, Defense: 3, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Dante Form 2": Damage: 7, Defense: 4,5, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Dante Form 3": Damage: 11, Defense: 7,5, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Dante Form 4": Damage: 17, Defense: 12, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Dante Form 5": Damage: 23, Defense: 16,5, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Dante": Damage: 2,5, Defense: 2, Energy Rate: 4 Move Speed: 2,5, Beast: False
+Character "Dante": Damage: 3,5, Defense: 3, Energy Rate: 3,2 Move Speed: 3, Beast: False
+Character "Dante": Damage: 5,5, Defense: 5, Energy Rate: 2,5 Move Speed: 3,5, Beast: False
+Character "Dante": Damage: 8,5, Defense: 8, Energy Rate: 2,2 Move Speed: 4, Beast: False
+Character "Dante": Damage: 14, Defense: 12, Energy Rate: 2,5 Move Speed: 4,7, Beast: False
+Character "Itami": Damage: 1,25, Defense: 1,25, Energy Rate: 4 Move Speed: 2,5, Beast: False
+Character "Itami": Damage: 2, Defense: 2,5, Energy Rate: 3,2 Move Speed: 3, Beast: False
+Character "Itami": Damage: 4, Defense: 4,5, Energy Rate: 2,5 Move Speed: 3,5, Beast: False
+Character "Itami": Damage: 6, Defense: 6,5, Energy Rate: 2,2 Move Speed: 4, Beast: False
+Character "Itami": Damage: 12, Defense: 14, Energy Rate: 3,5 Move Speed: 4, Beast: False
+Character "Batima": Damage: 1,5, Defense: 1,25, Energy Rate: 3,5 Move Speed: 2,5, Beast: False
+Character "Batima": Damage: 2,5, Defense: 1,75, Energy Rate: 3 Move Speed: 3, Beast: False
+Character "Batima": Damage: 4,5, Defense: 3,75, Energy Rate: 2,5 Move Speed: 3,5, Beast: False
+Character "Batima": Damage: 6,5, Defense: 6, Energy Rate: 2,2 Move Speed: 4, Beast: False
+Character "Batima": Damage: 16, Defense: 11, Energy Rate: 3 Move Speed: 4,5, Beast: False
+Character "Evil Denki": Damage: 9,75, Defense: 2,5, Energy Rate: 4 Move Speed: 2,5, Beast: False
+Character "Evil Denki": Damage: 10, Defense: 3,75, Energy Rate: 3,2 Move Speed: 3, Beast: False
+Character "Evil Denki": Damage: 14, Defense: 5, Energy Rate: 2,5 Move Speed: 3,5, Beast: False
+Character "Evil Denki": Damage: 16, Defense: 6, Energy Rate: 2,4 Move Speed: 4, Beast: False
+Character "Evil Denki": Damage: 18, Defense: 7, Energy Rate: 2,3 Move Speed: 4,5, Beast: False
+Character "Evil Denki": Damage: 19,25, Defense: 9,25, Energy Rate: 2,2 Move Speed: 4,5, Beast: False
+Character "Evil Denki": Damage: 21, Defense: 10,25, Energy Rate: 2,2 Move Speed: 4,6, Beast: False
+Character "Beast Denki Form 1": Damage: 19,5, Defense: 3,75, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Denki Form 2": Damage: 20, Defense: 5,625, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Denki Form 3": Damage: 28, Defense: 7,5, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Denki Form 4": Damage: 32, Defense: 9, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Denki Form 5": Damage: 39, Defense: 10,5, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Denki": Damage: 9,75, Defense: 2,5, Energy Rate: 4 Move Speed: 2,5, Beast: False
+Character "Denki": Damage: 10, Defense: 3,75, Energy Rate: 3,2 Move Speed: 3, Beast: False
+Character "Denki": Damage: 14, Defense: 5, Energy Rate: 2,5 Move Speed: 3,5, Beast: False
+Character "Denki": Damage: 16, Defense: 6, Energy Rate: 2,4 Move Speed: 4, Beast: False
+Character "Denki": Damage: 18, Defense: 7, Energy Rate: 2,3 Move Speed: 4,5, Beast: False
+Character "Denki": Damage: 19,25, Defense: 9,25, Energy Rate: 2,2 Move Speed: 4,5, Beast: False
+Character "Denki": Damage: 20,5, Defense: 11, Energy Rate: 2,2 Move Speed: 4,5, Beast: False
+Character "NN-Ikagi": Damage: 8,25, Defense: 8, Energy Rate: 2,6 Move Speed: 3,5, Beast: False
+Character "NN-Ikagi": Damage: 13, Defense: 13, Energy Rate: 3,5 Move Speed: 4,5, Beast: False
+Character "Ruiken": Damage: 10, Defense: 9, Energy Rate: 2,5 Move Speed: 4,5, Beast: False
+Character "Beast Lyshira Form 1": Damage: 3,5, Defense: 2,25, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Lyshira Form 2": Damage: 5,5, Defense: 3, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Lyshira Form 3": Damage: 9,5, Defense: 6, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Lyshira Form 4": Damage: 13,5, Defense: 9, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Lyshira Form 5": Damage: 19,5, Defense: 12,75, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Lyshira": Damage: 1,75, Defense: 1,5, Energy Rate: 4 Move Speed: 2,5, Beast: False
+Character "Lyshira": Damage: 2,75, Defense: 2, Energy Rate: 3,2 Move Speed: 3, Beast: False
+Character "Lyshira": Damage: 4,75, Defense: 4, Energy Rate: 2,5 Move Speed: 3,5, Beast: False
+Character "Lyshira": Damage: 6,75, Defense: 6, Energy Rate: 2,5 Move Speed: 3,5, Beast: False
+Character "Lyshira": Damage: 9,75, Defense: 8,5, Energy Rate: 2,5 Move Speed: 3,5, Beast: False
+Character "Siegh": Damage: 2,25, Defense: 2,25, Energy Rate: 4 Move Speed: 2,5, Beast: False
+Character "Siegh": Damage: 3,75, Defense: 3,75, Energy Rate: 3,2 Move Speed: 3, Beast: False
+Character "Siegh": Damage: 4,75, Defense: 4,75, Energy Rate: 2,5 Move Speed: 3,5, Beast: False
+Character "Siegh": Damage: 6,75, Defense: 6,75, Energy Rate: 2,2 Move Speed: 4, Beast: False
+Character "Siegh": Damage: 10,25, Defense: 9,75, Energy Rate: 2,2 Move Speed: 4,5, Beast: False
+Character "Clhoe": Damage: 4,75, Defense: 4,25, Energy Rate: 3 Move Speed: 3, Beast: False
+Character "Clhoe": Damage: 6,75, Defense: 6,25, Energy Rate: 2,5 Move Speed: 3,75, Beast: False
+Character "Clhoe": Damage: 9,75, Defense: 10,25, Energy Rate: 2,2 Move Speed: 4,5, Beast: False
+Character "Scrop": Damage: 1,75, Defense: 1,5, Energy Rate: 4 Move Speed: 2,5, Beast: False
+Character "Scrop": Damage: 2,75, Defense: 2,5, Energy Rate: 3,2 Move Speed: 3, Beast: False
+Character "Scrop": Damage: 3,75, Defense: 3,5, Energy Rate: 2,5 Move Speed: 3,5, Beast: False
+Character "Scrop": Damage: 5,75, Defense: 5,5, Energy Rate: 2,2 Move Speed: 4, Beast: False
+Character "Jim": Damage: 2, Defense: 1,25, Energy Rate: 3 Move Speed: 2,5, Beast: False
+Character "Jim": Damage: 3, Defense: 2,25, Energy Rate: 2,5 Move Speed: 3, Beast: False
+Character "Jim": Damage: 5, Defense: 4,25, Energy Rate: 2,25 Move Speed: 3,5, Beast: False
+Character "Jim": Damage: 7, Defense: 6,25, Energy Rate: 2 Move Speed: 4, Beast: False
+Character "Jim": Damage: 9, Defense: 8,25, Energy Rate: 1,8 Move Speed: 4,5, Beast: False
+Character "Jim (Chaos)": Damage: 10, Defense: 2,5, Energy Rate: 4 Move Speed: 2,5, Beast: False
+Character "Jim (Chaos)": Damage: 12, Defense: 3,5, Energy Rate: 3,2 Move Speed: 3, Beast: False
+Character "Jim (Chaos)": Damage: 14, Defense: 5, Energy Rate: 2,5 Move Speed: 3,5, Beast: False
+Character "Jim (Chaos)": Damage: 16, Defense: 6, Energy Rate: 2,5 Move Speed: 4, Beast: False
+Character "Jim (Chaos)": Damage: 19,5, Defense: 8,5, Energy Rate: 2,5 Move Speed: 4,5, Beast: False
+Character "Arcold": Damage: 2,5, Defense: 2, Energy Rate: 4 Move Speed: 2,5, Beast: False
+Character "Arcold": Damage: 3,5, Defense: 3, Energy Rate: 3,2 Move Speed: 3, Beast: False
+Character "Arcold": Damage: 4,5, Defense: 4, Energy Rate: 2,5 Move Speed: 3,5, Beast: False
+Character "Arcold": Damage: 6,5, Defense: 6, Energy Rate: 2,2 Move Speed: 4, Beast: False
+Character "Arcold": Damage: 18, Defense: 12, Energy Rate: 1,8 Move Speed: 4,7, Beast: False
+Character "Beast Rycon Form 1": Damage: 3,5, Defense: 1,5, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Rycon Form 2": Damage: 6,5, Defense: 3, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Rycon Form 3": Damage: 8,5, Defense: 4,5, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Rycon Form 4": Damage: 12, Defense: 7,5, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Rycon Form 5": Damage: 16,5, Defense: 9,75, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Rycon": Damage: 1,75, Defense: 1, Energy Rate: 4 Move Speed: 2,5, Beast: False
+Character "Rycon": Damage: 3,25, Defense: 2, Energy Rate: 3,2 Move Speed: 3, Beast: False
+Character "Rycon": Damage: 4,25, Defense: 3, Energy Rate: 2,5 Move Speed: 3,5, Beast: False
+Character "Rycon": Damage: 6, Defense: 5, Energy Rate: 2,2 Move Speed: 4, Beast: False
+Character "Rycon": Damage: 8,25, Defense: 6,5, Energy Rate: 1,8 Move Speed: 4,5, Beast: False
+Character "Kage God": Damage: 12, Defense: 11, Energy Rate: 4,3 Move Speed: 4,5, Beast: False
+Character "Kage": Damage: 5,5, Defense: 4,5, Energy Rate: 4 Move Speed: 3,25, Beast: False
+Character "Beast Gold Form 1": Damage: 6, Defense: 4,5, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Gold Form 1": Damage: 20, Defense: 11,5, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Gold Chaos": Damage: 3, Defense: 3, Energy Rate: 3,75 Move Speed: 3,5, Beast: False
+Character "Gold Chaos": Damage: 10, Defense: 7,75, Energy Rate: 3,75 Move Speed: 3,5, Beast: False
+Character "Beast Dark Gold Form 1": Damage: 3,5, Defense: 1,875, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Dark Gold Form 2": Damage: 5,5, Defense: 3,15, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Dark Gold Form 3": Damage: 11,5, Defense: 7,125, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Dark Gold Form 4": Damage: 15,5, Defense: 10,5, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Dark Gold Form 5": Damage: 18,5, Defense: 12,375, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Dark Gold": Damage: 1,75, Defense: 1,25, Energy Rate: 4 Move Speed: 2,5, Beast: False
+Character "Dark Gold": Damage: 2,75, Defense: 2,1, Energy Rate: 3,2 Move Speed: 2,5, Beast: False
+Character "Dark Gold": Damage: 5,75, Defense: 4,75, Energy Rate: 2,5 Move Speed: 3, Beast: False
+Character "Dark Gold": Damage: 7,75, Defense: 7, Energy Rate: 2,2 Move Speed: 4, Beast: False
+Character "Dark Gold": Damage: 9,25, Defense: 8,25, Energy Rate: 2,2 Move Speed: 4,5, Beast: False
+Character "Beast Gold Form 1": Damage: 3, Defense: 2,25, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Gold Form 2": Damage: 5, Defense: 3,75, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Gold Form 3": Damage: 7, Defense: 5,25, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Gold Form 4": Damage: 13, Defense: 7,5, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Gold Form 5": Damage: 17, Defense: 9,375, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Gold": Damage: 1,5, Defense: 1,5, Energy Rate: 4 Move Speed: 2,5, Beast: False
+Character "Gold": Damage: 2,5, Defense: 2,5, Energy Rate: 3,2 Move Speed: 3, Beast: False
+Character "Gold": Damage: 3,5, Defense: 3,5, Energy Rate: 2,5 Move Speed: 3,5, Beast: False
+Character "Gold": Damage: 6,5, Defense: 5, Energy Rate: 2,2 Move Speed: 4, Beast: False
+Character "Gold": Damage: 13, Defense: 11, Energy Rate: 3,2 Move Speed: 4,5, Beast: False
+Character "Chaos": Damage: 10, Defense: 10, Energy Rate: 3,75 Move Speed: 4,75, Beast: False
+Character "Beast Susan Form 1": Damage: 2, Defense: 2,25, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Susan Form 2": Damage: 4, Defense: 3,75, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Susan Form 3": Damage: 10, Defense: 8,25, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Susan Form 4": Damage: 14, Defense: 11,25, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Susan Form 5": Damage: 16, Defense: 12,75, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Susan": Damage: 1, Defense: 1,5, Energy Rate: 4 Move Speed: 2,5, Beast: False
+Character "Susan": Damage: 2, Defense: 2,5, Energy Rate: 3,2 Move Speed: 3, Beast: False
+Character "Susan": Damage: 5, Defense: 5,5, Energy Rate: 2,5 Move Speed: 3,5, Beast: False
+Character "Susan": Damage: 7, Defense: 7,5, Energy Rate: 2,2 Move Speed: 4, Beast: False
+Character "Susan": Damage: 8, Defense: 8,5, Energy Rate: 2,2 Move Speed: 4,5, Beast: False
+Character "Dark Erbito": Damage: 2,5, Defense: 2,25, Energy Rate: 4 Move Speed: 2,5, Beast: False
+Character "Dark Erbito": Damage: 4, Defense: 3,25, Energy Rate: 3,2 Move Speed: 2,5, Beast: False
+Character "Dark Erbito": Damage: 6, Defense: 5, Energy Rate: 2,5 Move Speed: 3, Beast: False
+Character "Dark Erbito": Damage: 8, Defense: 7,5, Energy Rate: 2,2 Move Speed: 4, Beast: False
+Character "Dark Erbito": Damage: 10,25, Defense: 9, Energy Rate: 1,8 Move Speed: 4,5, Beast: False
+Character "Dark Erbito": Damage: 12,25, Defense: 11, Energy Rate: 2,9 Move Speed: 4,5, Beast: False
+Character "Dark Erbito": Damage: 16, Defense: 12, Energy Rate: 3,2 Move Speed: 4,5, Beast: False
+Character "Beast Erbito Form 1": Damage: 7, Defense: 6, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Erbito Form 1": Damage: 22, Defense: 17,25, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Erbito Chaos": Damage: 3,5, Defense: 4, Energy Rate: 3,75 Move Speed: 3,5, Beast: False
+Character "Erbito Chaos": Damage: 11, Defense: 11,5, Energy Rate: 3,75 Move Speed: 3,5, Beast: False
+Character "Beast Erbito Form 1": Damage: 4, Defense: 3,75, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Erbito Form 2": Damage: 7, Defense: 6, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Erbito Form 3": Damage: 11, Defense: 9, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Erbito Form 4": Damage: 15, Defense: 12, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Erbito Form 5": Damage: 19, Defense: 15, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Erbito Form 6": Damage: 23, Defense: 18, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Zaiko Beast": Damage: 19,5, Defense: 12,375, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Erbito": Damage: 2, Defense: 2,5, Energy Rate: 4 Move Speed: 2,5, Beast: False
+Character "Erbito": Damage: 3,5, Defense: 4, Energy Rate: 3,2 Move Speed: 2,5, Beast: False
+Character "Erbito": Damage: 5,5, Defense: 6, Energy Rate: 2,5 Move Speed: 3, Beast: False
+Character "Erbito": Damage: 7,5, Defense: 8, Energy Rate: 2,2 Move Speed: 4, Beast: False
+Character "Erbito": Damage: 9,5, Defense: 10, Energy Rate: 1,8 Move Speed: 4,5, Beast: False
+Character "Erbito": Damage: 11,5, Defense: 12, Energy Rate: 2,9 Move Speed: 4,5, Beast: False
+Character "Erbito": Damage: 14,5, Defense: 13, Energy Rate: 3,2 Move Speed: 4,6, Beast: False
+Character "Beast Shukako Form 1": Damage: 3, Defense: 3, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Shukako Form 2": Damage: 5, Defense: 5,25, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Shukako Form 3": Damage: 7, Defense: 7,5, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Shukako Form 4": Damage: 9,5, Defense: 9,75, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Shukako Form 5": Damage: 13, Defense: 13,5, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Shukako": Damage: 1,5, Defense: 2, Energy Rate: 4 Move Speed: 2,5, Beast: False
+Character "Shukako": Damage: 2,5, Defense: 3,5, Energy Rate: 3,2 Move Speed: 3, Beast: False
+Character "Shukako": Damage: 3,5, Defense: 5, Energy Rate: 2,5 Move Speed: 3,5, Beast: False
+Character "Shukako": Damage: 4,75, Defense: 6,5, Energy Rate: 2,2 Move Speed: 4, Beast: False
+Character "Shukako": Damage: 6,5, Defense: 9, Energy Rate: 2,2 Move Speed: 4,5, Beast: False
+Character "Beast Kyra Form 1": Damage: 4, Defense: 2,25, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Kyra Form 2": Damage: 7, Defense: 3,75, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Kyra Form 3": Damage: 10, Defense: 5,25, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Kyra Form 4": Damage: 13, Defense: 7,125, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Kyra Form 5": Damage: 16, Defense: 9, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Kyra": Damage: 2, Defense: 1,5, Energy Rate: 4 Move Speed: 2,5, Beast: False
+Character "Kyra": Damage: 3,5, Defense: 2,5, Energy Rate: 3,2 Move Speed: 3, Beast: False
+Character "Kyra": Damage: 5, Defense: 3,5, Energy Rate: 2,5 Move Speed: 3,5, Beast: False
+Character "Kyra": Damage: 6,5, Defense: 4,75, Energy Rate: 2,2 Move Speed: 4, Beast: False
+Character "Kyra": Damage: 8, Defense: 6, Energy Rate: 2,2 Move Speed: 4,5, Beast: False
+Character "El Casco": Damage: 11, Defense: 10, Energy Rate: 4 Move Speed: 4,2, Beast: False
+Character "El Diamond": Damage: 9,5, Defense: 14, Energy Rate: 4 Move Speed: 4,2, Beast: False
+Character "El Diablo": Damage: 13, Defense: 11, Energy Rate: 4 Move Speed: 4,2, Beast: False
+Character "El Hermano ": Damage: 15, Defense: 9, Energy Rate: 4 Move Speed: 4,2, Beast: False
+Character "Arthur": Damage: 2, Defense: 2,5, Energy Rate: 4 Move Speed: 2,5, Beast: False
+Character "Arthur": Damage: 3,5, Defense: 4, Energy Rate: 3,2 Move Speed: 3, Beast: False
+Character "Arthur": Damage: 5,5, Defense: 6, Energy Rate: 2,5 Move Speed: 3,5, Beast: False
+Character "Arthur": Damage: 7,5, Defense: 8, Energy Rate: 2,2 Move Speed: 4, Beast: False
+Character "Arthur": Damage: 13, Defense: 10, Energy Rate: 2,5 Move Speed: 4,5, Beast: False
+Character "Best Dark Frango": Damage: 3,5, Defense: 1,875, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Best Dark Frango": Damage: 5,5, Defense: 3,15, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Best Dark Frango": Damage: 11,5, Defense: 7,125, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Best Dark Frango": Damage: 15,5, Defense: 10,5, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Best Dark Frango": Damage: 18,5, Defense: 12,375, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Best Dark Frango": Damage: 18,5, Defense: 10,5, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Best Dark Frango": Damage: 21, Defense: 12,375, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Frango": Damage: 2,5, Defense: 2, Energy Rate: 4 Move Speed: 2,5, Beast: False
+Character "Frango": Damage: 3,75, Defense: 3,2, Energy Rate: 3,2 Move Speed: 3, Beast: False
+Character "Frango": Damage: 6, Defense: 5, Energy Rate: 2,5 Move Speed: 3,5, Beast: False
+Character "Frango": Damage: 8,75, Defense: 8, Energy Rate: 2,5 Move Speed: 4, Beast: False
+Character "Frango": Damage: 10,75, Defense: 9,75, Energy Rate: 2,5 Move Speed: 4,5, Beast: False
+Character "Frango": Damage: 11,75, Defense: 10,5, Energy Rate: 2,5 Move Speed: 4,5, Beast: False
+Character "Frango": Damage: 12,75, Defense: 11,75, Energy Rate: 2,5 Move Speed: 4,5, Beast: False
+Character "Frango (AF)": Damage: 2, Defense: 2,5, Energy Rate: 4 Move Speed: 2,5, Beast: False
+Character "Frango (AF)": Damage: 3,5, Defense: 4, Energy Rate: 3,2 Move Speed: 3, Beast: False
+Character "Frango (AF)": Damage: 5,5, Defense: 6, Energy Rate: 2,5 Move Speed: 3,5, Beast: False
+Character "Frango (AF)": Damage: 7,5, Defense: 8, Energy Rate: 2,2 Move Speed: 4, Beast: False
+Character "Frango (AF)": Damage: 9,5, Defense: 10, Energy Rate: 1,8 Move Speed: 4,5, Beast: False
+Character "SL Killer": Damage: 4, Defense: 4, Energy Rate: 2,5 Move Speed: 3, Beast: False
+Character "SL Killer": Damage: 6,25, Defense: 5,25, Energy Rate: 2,5 Move Speed: 3,75, Beast: False
+Character "SL Killer": Damage: 12, Defense: 14,5, Energy Rate: 2,5 Move Speed: 3,5, Beast: False
+Character "Yoshi": Damage: 4,5, Defense: 4, Energy Rate: 2,5 Move Speed: 3,25, Beast: False
+Character "Yoshi": Damage: 13, Defense: 11, Energy Rate: 3 Move Speed: 4,5, Beast: False
+Character "Luiz": Damage: 15, Defense: 12, Energy Rate: 2,5 Move Speed: 3,5, Beast: False
+Character "Chuck": Damage: 12,5, Defense: 13, Energy Rate: 3,2 Move Speed: 3,5, Beast: False
+Character "Beast Ronald Form 1": Damage: 4, Defense: 3, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Ronald Form 2": Damage: 6,5, Defense: 3,375, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Ronald Form 3": Damage: 9, Defense: 4,875, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Ronald Form 4": Damage: 13, Defense: 7,875, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Ronald Form 5": Damage: 17, Defense: 10,875, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Ronald Form 6": Damage: 20,5, Defense: 13,125, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Ronald": Damage: 2, Defense: 2, Energy Rate: 4 Move Speed: 2,5, Beast: False
+Character "Ronald": Damage: 3,25, Defense: 2,25, Energy Rate: 3,2 Move Speed: 3, Beast: False
+Character "Ronald": Damage: 4,5, Defense: 3,25, Energy Rate: 2,5 Move Speed: 3,5, Beast: False
+Character "Ronald": Damage: 6,5, Defense: 5,25, Energy Rate: 2,2 Move Speed: 4, Beast: False
+Character "Ronald": Damage: 8,5, Defense: 7,25, Energy Rate: 2,2 Move Speed: 4,5, Beast: False
+Character "Ronald": Damage: 14,5, Defense: 9, Energy Rate: 3,5 Move Speed: 4,7, Beast: False
+Character "Beast Akat Form 1": Damage: 4,5, Defense: 2,25, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Akat Form 2": Damage: 6,5, Defense: 3,75, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Akat Form 3": Damage: 10, Defense: 5,25, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Akat Form 4": Damage: 14,5, Defense: 7,125, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Akat Form 5": Damage: 19, Defense: 9, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Akat": Damage: 2,25, Defense: 1,5, Energy Rate: 4 Move Speed: 2,5, Beast: False
+Character "Akat": Damage: 3,25, Defense: 2,5, Energy Rate: 3,2 Move Speed: 3, Beast: False
+Character "Akat": Damage: 5, Defense: 3,5, Energy Rate: 2,5 Move Speed: 3,5, Beast: False
+Character "Akat": Damage: 7,25, Defense: 4,75, Energy Rate: 2,2 Move Speed: 4, Beast: False
+Character "Akat": Damage: 16, Defense: 10, Energy Rate: 3 Move Speed: 4,8, Beast: False
+Character "Bushido": Damage: 16,5, Defense: 5,5, Energy Rate: 4 Move Speed: 3,2, Beast: False
+Character "S.H.A.D.O.W": Damage: 12, Defense: 11, Energy Rate: 3,2 Move Speed: 4,5, Beast: False
+Character "F.I.R.E": Damage: 20, Defense: 7, Energy Rate: 3 Move Speed: 4,5, Beast: False
+Character "E.A.R.T.H": Damage: 12, Defense: 15, Energy Rate: 2,75 Move Speed: 3,5, Beast: False
+Character "W.A.T.E.R": Damage: 12, Defense: 8, Energy Rate: 3,75 Move Speed: 5, Beast: False
+Character "Beast Hakkai Form 1": Damage: 16, Defense: 3,375, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Hakkai Form 2": Damage: 20, Defense: 5,25, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Hakkai Form 3": Damage: 24, Defense: 7,5, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Hakkai Form 4": Damage: 28, Defense: 9,75, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Hakkai Form 5": Damage: 32, Defense: 12, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Hakkai Form 6": Damage: 36, Defense: 13,5, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Hakkai Form 7": Damage: 38, Defense: 15, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Hakkai Rose": Damage: 2,5, Defense: 2,25, Energy Rate: 4 Move Speed: 2,5, Beast: False
+Character "Hakkai Rose": Damage: 4, Defense: 3,25, Energy Rate: 3,6 Move Speed: 2,5, Beast: False
+Character "Hakkai Rose": Damage: 6, Defense: 5, Energy Rate: 3,2 Move Speed: 3, Beast: False
+Character "Hakkai Rose": Damage: 8, Defense: 7,5, Energy Rate: 3 Move Speed: 4, Beast: False
+Character "Hakkai Rose": Damage: 10,25, Defense: 9, Energy Rate: 3 Move Speed: 4,5, Beast: False
+Character "Hakkai Rose": Damage: 12,25, Defense: 11, Energy Rate: 3 Move Speed: 4,5, Beast: False
+Character "Hakkai Rose": Damage: 13,75, Defense: 12, Energy Rate: 3,2 Move Speed: 4,5, Beast: False
+Character "Hakkai": Damage: 8, Defense: 2,25, Energy Rate: 4 Move Speed: 2,5, Beast: False
+Character "Hakkai": Damage: 10, Defense: 3,5, Energy Rate: 3,6 Move Speed: 2,5, Beast: False
+Character "Hakkai": Damage: 12, Defense: 5, Energy Rate: 3,2 Move Speed: 3, Beast: False
+Character "Hakkai": Damage: 14, Defense: 6,5, Energy Rate: 3 Move Speed: 4, Beast: False
+Character "Hakkai": Damage: 16, Defense: 8, Energy Rate: 3 Move Speed: 4,5, Beast: False
+Character "Hakkai": Damage: 18, Defense: 9, Energy Rate: 3 Move Speed: 4,5, Beast: False
+Character "Hakkai": Damage: 19, Defense: 10, Energy Rate: 3,2 Move Speed: 4,5, Beast: False
+Character "Inne (AF)": Damage: 7,25, Defense: 3, Energy Rate: 4 Move Speed: 2,5, Beast: False
+Character "Inne (AF)": Damage: 9,25, Defense: 4,25, Energy Rate: 3,2 Move Speed: 3, Beast: False
+Character "Inne (AF)": Damage: 11,25, Defense: 5,5, Energy Rate: 2,5 Move Speed: 3,5, Beast: False
+Character "Inne (AF)": Damage: 12,75, Defense: 7, Energy Rate: 2,2 Move Speed: 4, Beast: False
+Character "Inne (AF)": Damage: 15, Defense: 8,5, Energy Rate: 2,2 Move Speed: 4,5, Beast: False
+Character "Inne (AF)": Damage: 16,5, Defense: 9,75, Energy Rate: 2,2 Move Speed: 4,5, Beast: False
+Character "Inne (AF)": Damage: 20,5, Defense: 10,75, Energy Rate: 2,2 Move Speed: 4,5, Beast: False
+Character "Beast Dark Ine Form 1": Damage: 18, Defense: 4,5, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Dark Ine Form 2": Damage: 22, Defense: 6,75, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Dark Ine Form 3": Damage: 26, Defense: 9, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Dark Ine Form 4": Damage: 30, Defense: 10,5, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Dark Ine Form 5": Damage: 34, Defense: 12, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Dark Ine Form 6": Damage: 38, Defense: 13,5, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Dark Ine Form 7": Damage: 41, Defense: 15, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Dark Ine": Damage: 9, Defense: 3, Energy Rate: 4 Move Speed: 2,5, Beast: False
+Character "Dark Ine": Damage: 11, Defense: 4,5, Energy Rate: 3,2 Move Speed: 2,5, Beast: False
+Character "Dark Ine": Damage: 13, Defense: 6, Energy Rate: 2,8 Move Speed: 3, Beast: False
+Character "Dark Ine": Damage: 15, Defense: 7, Energy Rate: 2,2 Move Speed: 4, Beast: False
+Character "Dark Ine": Damage: 17, Defense: 8, Energy Rate: 2 Move Speed: 4,5, Beast: False
+Character "Dark Ine": Damage: 19, Defense: 9, Energy Rate: 2 Move Speed: 4,5, Beast: False
+Character "Dark Ine": Damage: 20,5, Defense: 10,75, Energy Rate: 2,5 Move Speed: 4,5, Beast: False
+Character "Flame": Damage: 15, Defense: 10, Energy Rate: 3 Move Speed: 4,5, Beast: False
+Character "Blu ": Damage: 12, Defense: 9, Energy Rate: 4,25 Move Speed: 4,5, Beast: False
+Character "Aeon": Damage: 10, Defense: 13, Energy Rate: 3,5 Move Speed: 4,5, Beast: False
+Character "Jureg": Damage: 18, Defense: 6, Energy Rate: 2,8 Move Speed: 5, Beast: False
+Character "Jone": Damage: 3,5, Defense: 3,5, Energy Rate: 2,5 Move Speed: 3,5, Beast: False
+Character "Jone Stronger": Damage: 7, Defense: 7, Energy Rate: 3 Move Speed: 4,2, Beast: False
+Character "Beast Zaiko AF Form 1": Damage: 7,5, Defense: 2, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Zaiko AF Form 2": Damage: 8,5, Defense: 3,5, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Zaiko AF Form 3": Damage: 12,5, Defense: 3,75, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Zaiko AF Form 4": Damage: 17,5, Defense: 7,5, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Zaiko AF Form 5": Damage: 22, Defense: 8,25, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Zaiko AF Form 6": Damage: 24, Defense: 14,5, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Zaiko AF Form 7": Damage: 29, Defense: 15,5, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Zaiko AF": Damage: 3,75, Defense: 1,25, Energy Rate: 4 Move Speed: 2,5, Beast: False
+Character "Zaiko AF": Damage: 4,25, Defense: 1,75, Energy Rate: 3 Move Speed: 3, Beast: False
+Character "Zaiko AF": Damage: 6,25, Defense: 2,5, Energy Rate: 2,5 Move Speed: 3,5, Beast: False
+Character "Zaiko AF": Damage: 8,75, Defense: 3,75, Energy Rate: 2,2 Move Speed: 4, Beast: False
+Character "Zaiko AF": Damage: 11, Defense: 5,5, Energy Rate: 2 Move Speed: 4,5, Beast: False
+Character "Zaiko AF": Damage: 12, Defense: 7,25, Energy Rate: 2 Move Speed: 4,5, Beast: False
+Character "Zaiko AF": Damage: 14,5, Defense: 10,25, Energy Rate: 2,5 Move Speed: 4,5, Beast: False
+Character "Beast Zaiko Form 1": Damage: 6,5, Defense: 4, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Zaiko Form 1": Damage: 17,5, Defense: 12,25, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Zaiko Chaos": Damage: 3,25, Defense: 2,75, Energy Rate: 3,75 Move Speed: 3,5, Beast: False
+Character "Zaiko Chaos": Damage: 8,75, Defense: 8,25, Energy Rate: 3,75 Move Speed: 3,5, Beast: False
+Character "Beast Zaiko Form 1": Damage: 3,5, Defense: 1,875, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Zaiko Form 2": Damage: 5,5, Defense: 3,375, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Zaiko Form 3": Damage: 7,5, Defense: 4,875, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Zaiko Form 4": Damage: 11, Defense: 7,875, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Zaiko Form 5": Damage: 14,5, Defense: 10,05, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Zaiko Form 6": Damage: 17,5, Defense: 10,5, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Zaiko Form 7": Damage: 20,5, Defense: 12,375, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Zaiko": Damage: 1,75, Defense: 1,25, Energy Rate: 4 Move Speed: 2,5, Beast: False
+Character "Zaiko": Damage: 2,75, Defense: 2,25, Energy Rate: 3,2 Move Speed: 2,5, Beast: False
+Character "Zaiko": Damage: 3,75, Defense: 3,25, Energy Rate: 2,5 Move Speed: 3, Beast: False
+Character "Zaiko": Damage: 5,5, Defense: 5,25, Energy Rate: 2,2 Move Speed: 3,5, Beast: False
+Character "Zaiko": Damage: 7,25, Defense: 6,7, Energy Rate: 1,8 Move Speed: 4,5, Beast: False
+Character "Zaiko": Damage: 8,75, Defense: 7, Energy Rate: 1,8 Move Speed: 5, Beast: False
+Character "Zaiko": Damage: 10,25, Defense: 8,25, Energy Rate: 1,8 Move Speed: 5, Beast: False
+Character "Gozm": Damage: 2,75, Defense: 1,75, Energy Rate: 4 Move Speed: 2,5, Beast: False
+Character "Gozm": Damage: 3,75, Defense: 2,75, Energy Rate: 3,2 Move Speed: 2,5, Beast: False
+Character "Gozm": Damage: 4,75, Defense: 3,75, Energy Rate: 2,5 Move Speed: 3, Beast: False
+Character "Gozm": Damage: 6,5, Defense: 5,25, Energy Rate: 2,2 Move Speed: 3,5, Beast: False
+Character "Gozm": Damage: 8,25, Defense: 6,75, Energy Rate: 1,8 Move Speed: 4, Beast: False
+Character "A. Frozen": Damage: 14,5, Defense: 13, Energy Rate: 3 Move Speed: 4,3, Beast: False
+Character "Evil Enzo": Damage: 8,25, Defense: 2, Energy Rate: 4 Move Speed: 2,5, Beast: False
+Character "Evil Enzo": Damage: 10, Defense: 3, Energy Rate: 3,2 Move Speed: 2,5, Beast: False
+Character "Evil Enzo": Damage: 12, Defense: 4,5, Energy Rate: 2,5 Move Speed: 3, Beast: False
+Character "Evil Enzo": Damage: 14, Defense: 5,5, Energy Rate: 2,2 Move Speed: 4, Beast: False
+Character "Evil Enzo": Damage: 16, Defense: 6,25, Energy Rate: 1,8 Move Speed: 4,5, Beast: False
+Character "Evil Enzo": Damage: 17,25, Defense: 7,5, Energy Rate: 2,9 Move Speed: 4,5, Beast: False
+Character "Evil Enzo": Damage: 18,5, Defense: 9, Energy Rate: 3,2 Move Speed: 4,5, Beast: False
+Character "Beast Enzo (AF) Form 1": Damage: 5, Defense: 3, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Enzo (AF) Form 2": Damage: 8, Defense: 5,25, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Enzo (AF) Form 3": Damage: 11, Defense: 7,5, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Enzo (AF) Form 4": Damage: 14, Defense: 9,75, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Enzo (AF) Form 5": Damage: 17, Defense: 12, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Enzo (AF) Form 6": Damage: 20, Defense: 14,25, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Enzo (AF) Form 7": Damage: 24,5, Defense: 16,5, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Enzo (AF)": Damage: 2,5, Defense: 2, Energy Rate: 4 Move Speed: 2,5, Beast: False
+Character "Enzo (AF)": Damage: 4, Defense: 3,5, Energy Rate: 3,2 Move Speed: 3, Beast: False
+Character "Enzo (AF)": Damage: 5,5, Defense: 5, Energy Rate: 2,5 Move Speed: 3,5, Beast: False
+Character "Enzo (AF)": Damage: 7, Defense: 6,5, Energy Rate: 2,2 Move Speed: 4, Beast: False
+Character "Enzo (AF)": Damage: 8,5, Defense: 8, Energy Rate: 1,8 Move Speed: 4,5, Beast: False
+Character "Enzo (AF)": Damage: 10, Defense: 9,5, Energy Rate: 1,8 Move Speed: 4,5, Beast: False
+Character "Enzo (AF)": Damage: 12,25, Defense: 11, Energy Rate: 1,8 Move Speed: 4,5, Beast: False
+Character "Beast Dark Enzo Form 1": Damage: 4,5, Defense: 2,25, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Dark Enzo Form 2": Damage: 6,5, Defense: 3,75, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Dark Enzo Form 3": Damage: 8,5, Defense: 5,25, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Dark Enzo Form 4": Damage: 11,5, Defense: 7,5, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Dark Enzo Form 5": Damage: 14,5, Defense: 10,125, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Dark Enzo Form 6": Damage: 17, Defense: 11,625, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Dark Enzo Crystal Form 7": Damage: 20, Defense: 14,25, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Dark Enzo": Damage: 2,25, Defense: 1,5, Energy Rate: 4 Move Speed: 2,5, Beast: False
+Character "Dark Enzo": Damage: 3,25, Defense: 2,5, Energy Rate: 3,2 Move Speed: 2,5, Beast: False
+Character "Dark Enzo": Damage: 4,25, Defense: 3,5, Energy Rate: 2,5 Move Speed: 3, Beast: False
+Character "Dark Enzo": Damage: 5,75, Defense: 5, Energy Rate: 2,2 Move Speed: 4, Beast: False
+Character "Dark Enzo": Damage: 7,25, Defense: 6,75, Energy Rate: 2,2 Move Speed: 4,5, Beast: False
+Character "Dark Enzo": Damage: 8,5, Defense: 7,75, Energy Rate: 2,2 Move Speed: 4,5, Beast: False
+Character "Dark Enzo Crystal": Damage: 10, Defense: 9,5, Energy Rate: 2,5 Move Speed: 4,5, Beast: False
+Character "Beast Enzo Form 1": Damage: 3, Defense: 1,5, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Enzo Form 2": Damage: 5, Defense: 3, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Enzo Form 3": Damage: 7, Defense: 4,5, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Enzo Form 4": Damage: 10, Defense: 6,75, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Enzo Form 5": Damage: 13, Defense: 9,375, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Enzo Form 6": Damage: 15,5, Defense: 10,875, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Enzo Form 7": Damage: 18,5, Defense: 13,125, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Enzo": Damage: 1,5, Defense: 1, Energy Rate: 4 Move Speed: 2,5, Beast: False
+Character "Enzo": Damage: 2,5, Defense: 2, Energy Rate: 3,2 Move Speed: 2,5, Beast: False
+Character "Enzo": Damage: 3,5, Defense: 3, Energy Rate: 2,5 Move Speed: 3, Beast: False
+Character "Enzo": Damage: 5, Defense: 4,5, Energy Rate: 2,2 Move Speed: 4, Beast: False
+Character "Enzo": Damage: 6,5, Defense: 6,25, Energy Rate: 2,2 Move Speed: 4,5, Beast: False
+Character "Enzo": Damage: 7,75, Defense: 7,25, Energy Rate: 2,2 Move Speed: 4,5, Beast: False
+Character "Enzo": Damage: 11,25, Defense: 10,35, Energy Rate: 3,2 Move Speed: 3,2, Beast: False
+Character "Evil Neff": Damage: 8,25, Defense: 2, Energy Rate: 4 Move Speed: 2,5, Beast: False
+Character "Evil Neff": Damage: 10, Defense: 3, Energy Rate: 3,2 Move Speed: 2,5, Beast: False
+Character "Evil Neff": Damage: 12, Defense: 4,5, Energy Rate: 2,5 Move Speed: 3, Beast: False
+Character "Evil Neff": Damage: 14, Defense: 5,5, Energy Rate: 2,2 Move Speed: 4, Beast: False
+Character "Evil Neff": Damage: 16, Defense: 6,25, Energy Rate: 1,8 Move Speed: 4,5, Beast: False
+Character "Evil Neff": Damage: 17,25, Defense: 7,5, Energy Rate: 2,9 Move Speed: 4,5, Beast: False
+Character "Evil Neff": Damage: 18,5, Defense: 9,5, Energy Rate: 3,2 Move Speed: 4,6, Beast: False
+Character "Beast Neff (AF) Form 1": Damage: 4, Defense: 3,75, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Neff (AF) Form 2": Damage: 7, Defense: 6, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Neff (AF) Form 3": Damage: 10, Defense: 8,25, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Neff (AF) Form 4": Damage: 13, Defense: 10,5, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Neff (AF) Form 5": Damage: 16, Defense: 12,75, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Neff (AF) Form 6": Damage: 19, Defense: 15, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Neff (AF) Form 7": Damage: 22, Defense: 18,375, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Neff (AF)": Damage: 2, Defense: 2,5, Energy Rate: 4 Move Speed: 2,5, Beast: False
+Character "Neff (AF)": Damage: 3,5, Defense: 4, Energy Rate: 3,2 Move Speed: 3, Beast: False
+Character "Neff (AF)": Damage: 5, Defense: 5,5, Energy Rate: 2,5 Move Speed: 3,5, Beast: False
+Character "Neff (AF)": Damage: 6,5, Defense: 7, Energy Rate: 2,2 Move Speed: 4, Beast: False
+Character "Neff (AF)": Damage: 8, Defense: 8,5, Energy Rate: 1,8 Move Speed: 4,5, Beast: False
+Character "Neff (AF)": Damage: 9,5, Defense: 10, Energy Rate: 1,8 Move Speed: 4,5, Beast: False
+Character "Neff (AF)": Damage: 11, Defense: 12,25, Energy Rate: 1,8 Move Speed: 4,5, Beast: False
+Character "Beast Dark Neff Form 1": Damage: 3, Defense: 3,375, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Dark Neff Form 2": Damage: 5, Defense: 4,875, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Dark Neff Form 3": Damage: 7, Defense: 6,375, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Dark Neff Form 4": Damage: 10, Defense: 8,625, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Dark Neff Form 5": Damage: 13,5, Defense: 10,875, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Dark Neff Form 6": Damage: 15,5, Defense: 12,75, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Dark Neff Form 7": Damage: 19, Defense: 15, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Dark Neff": Damage: 1,5, Defense: 2,25, Energy Rate: 4 Move Speed: 2,5, Beast: False
+Character "Dark Neff": Damage: 2,5, Defense: 3,25, Energy Rate: 3,2 Move Speed: 2,5, Beast: False
+Character "Dark Neff": Damage: 3,5, Defense: 4,25, Energy Rate: 2,5 Move Speed: 3, Beast: False
+Character "Dark Neff": Damage: 5, Defense: 5,75, Energy Rate: 2,2 Move Speed: 4, Beast: False
+Character "Dark Neff": Damage: 6,75, Defense: 7,25, Energy Rate: 2,2 Move Speed: 4,5, Beast: False
+Character "Dark Neff": Damage: 7,75, Defense: 8,5, Energy Rate: 2,2 Move Speed: 4,5, Beast: False
+Character "Dark Neff": Damage: 9,5, Defense: 10, Energy Rate: 2,2 Move Speed: 4,5, Beast: False
+Character "Beast Neff Form 1": Damage: 2, Defense: 2,25, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Neff Form 2": Damage: 4, Defense: 3,75, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Neff Form 3": Damage: 6, Defense: 5,25, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Neff Form 4": Damage: 9, Defense: 7,5, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Neff Form 5": Damage: 12,5, Defense: 9,75, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Neff Form 6": Damage: 14,5, Defense: 11,625, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Neff Form 7": Damage: 17,5, Defense: 13,875, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Neff": Damage: 1, Defense: 1,5, Energy Rate: 4 Move Speed: 2,5, Beast: False
+Character "Neff": Damage: 2, Defense: 2,5, Energy Rate: 3,2 Move Speed: 2,5, Beast: False
+Character "Neff": Damage: 3, Defense: 3,5, Energy Rate: 2,5 Move Speed: 3, Beast: False
+Character "Neff": Damage: 4,5, Defense: 5, Energy Rate: 2,2 Move Speed: 4, Beast: False
+Character "Neff": Damage: 6,25, Defense: 6,5, Energy Rate: 1,8 Move Speed: 4,5, Beast: False
+Character "Neff": Damage: 7,25, Defense: 7,75, Energy Rate: 2,9 Move Speed: 4,5, Beast: False
+Character "Neff": Damage: 12, Defense: 10, Energy Rate: 3,2 Move Speed: 4,5, Beast: False
+Character "God Joke": Damage: 21,75, Defense: 8,75, Energy Rate: 2,8 Move Speed: 4,5, Beast: False
+Character "Nenzo": Damage: 12,5, Defense: 11,5, Energy Rate: 2,2 Move Speed: 4,5, Beast: False
+Character "God Joke": Damage: 20,25, Defense: 7,75, Energy Rate: 2,8 Move Speed: 4,5, Beast: False
+Character "Zoop Reverso": Damage: 10,5, Defense: 16,5, Energy Rate: 4 Move Speed: 4,25, Beast: False
+Character "Zoop": Damage: 10,5, Defense: 16,5, Energy Rate: 4 Move Speed: 4,25, Beast: False
+Character "Beast God Joke Form 1": Damage: 18, Defense: 4,5, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast God Joke Form 2": Damage: 22, Defense: 6,75, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast God Joke Form 3": Damage: 26, Defense: 9, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast God Joke Form 4": Damage: 30, Defense: 10,5, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast God Joke Form 5": Damage: 34, Defense: 12, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast God Joke Form 6": Damage: 38, Defense: 13,5, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast God Joke Form 7": Damage: 41, Defense: 15, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "God Joke": Damage: 10,25, Defense: 2,25, Energy Rate: 4 Move Speed: 2,5, Beast: False
+Character "God Joke": Damage: 12,25, Defense: 3,75, Energy Rate: 3,2 Move Speed: 2,5, Beast: False
+Character "God Joke": Damage: 14,25, Defense: 5,25, Energy Rate: 2,8 Move Speed: 3, Beast: False
+Character "God Joke": Damage: 16,25, Defense: 6, Energy Rate: 2,8 Move Speed: 4, Beast: False
+Character "God Joke": Damage: 18,25, Defense: 7, Energy Rate: 2,8 Move Speed: 4,5, Beast: False
+Character "Jim Christmas": Damage: 8, Defense: 5, Energy Rate: 4 Move Speed: 3, Beast: False
+Character "Jim Christmas": Damage: 12, Defense: 9, Energy Rate: 3,2 Move Speed: 4, Beast: False
+Character "Jim Christmas": Damage: 16, Defense: 11, Energy Rate: 2,8 Move Speed: 4,5, Beast: False
+Character "Lyshira Xmas": Damage: 2, Defense: 3, Energy Rate: 4,2 Move Speed: 4, Beast: False
+Character "Lyshira Xmas": Damage: 4, Defense: 5, Energy Rate: 3,8 Move Speed: 4,5, Beast: False
+Character "Zoop": Damage: 9,25, Defense: 13, Energy Rate: 3 Move Speed: 4, Beast: False
+Character "Nenzo Christmas": Damage: 3,5, Defense: 3,5, Energy Rate: 4 Move Speed: 3, Beast: False
+Character "Nenzo Christmas": Damage: 5,5, Defense: 5,5, Energy Rate: 3,2 Move Speed: 4, Beast: False
+Character "Nenzo Christmas": Damage: 7,5, Defense: 7,5, Energy Rate: 2,8 Move Speed: 5, Beast: False
+Character "Zaiko Christmas": Damage: 4, Defense: 2, Energy Rate: 4 Move Speed: 3, Beast: False
+Character "Zaiko Christmas": Damage: 6, Defense: 3, Energy Rate: 3,2 Move Speed: 4, Beast: False
+Character "Zaiko Christmas": Damage: 8, Defense: 4, Energy Rate: 2,8 Move Speed: 5,25, Beast: False
+Character "Enzo Christmas": Damage: 3, Defense: 2, Energy Rate: 4 Move Speed: 3, Beast: False
+Character "Enzo Christmas": Damage: 5, Defense: 4, Energy Rate: 3,2 Move Speed: 4, Beast: False
+Character "Enzo Christmas": Damage: 7, Defense: 6, Energy Rate: 2,5 Move Speed: 4,5, Beast: False
+Character "Neff Christmas": Damage: 2,25, Defense: 3, Energy Rate: 4 Move Speed: 3, Beast: False
+Character "Neff Christmas": Damage: 4, Defense: 5, Energy Rate: 3,2 Move Speed: 4, Beast: False
+Character "Neff Christmas": Damage: 6, Defense: 7, Energy Rate: 2,5 Move Speed: 4,5, Beast: False
+Character "Beast Halloween Master": Damage: 20, Defense: 12, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Chaos": Damage: 34, Defense: 12, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Neff Toy": Damage: 1,75, Defense: 1,5, Energy Rate: 3,25 Move Speed: 2,75, Beast: False
+Character "Halloween Master": Damage: 10, Defense: 8, Energy Rate: 3,2 Move Speed: 4, Beast: False
+Character "Halloween Master": Damage: 17, Defense: 8, Energy Rate: 2,9 Move Speed: 4,5, Beast: False
+Character "Beast Sangh": Damage: 15,5, Defense: 10, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Sangh": Damage: 21,5, Defense: 10, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Sangh Halloween": Damage: 7,75, Defense: 6,75, Energy Rate: 3,25 Move Speed: 2,75, Beast: False
+Character "Sangh Halloween": Damage: 10,75, Defense: 6,75, Energy Rate: 2,8 Move Speed: 3,75, Beast: False
+Character "Beast Erkkai": Damage: 17,5, Defense: 7,9, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Erkkai": Damage: 24,5, Defense: 7,9, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Erkkai Halloween": Damage: 8,75, Defense: 5,25, Energy Rate: 3,25 Move Speed: 2,75, Beast: False
+Character "Erkkai Halloween": Damage: 12,25, Defense: 5,25, Energy Rate: 2,8 Move Speed: 3,5, Beast: False
+Character "Beast Tigre": Damage: 12,5, Defense: 7,75, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Tigre": Damage: 14,5, Defense: 7,5, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Tigre Halloween": Damage: 6,25, Defense: 5, Energy Rate: 4 Move Speed: 3,5, Beast: False
+Character "Tigre Halloween": Damage: 7,25, Defense: 5, Energy Rate: 3,2 Move Speed: 4,5, Beast: False
+Character "Beast Dante": Damage: 11, Defense: 7,9, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Dante": Damage: 12, Defense: 7,9, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Dante Halloween": Damage: 5,5, Defense: 5,25, Energy Rate: 4 Move Speed: 2,5, Beast: False
+Character "Dante Halloween": Damage: 6, Defense: 5,25, Energy Rate: 3,2 Move Speed: 3,25, Beast: False
+Character "Beast Hakkai": Damage: 12,5, Defense: 5,25, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Hakkai": Damage: 14,5, Defense: 5,25, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Hakkai Halloween": Damage: 6,25, Defense: 3,5, Energy Rate: 4 Move Speed: 2,5, Beast: False
+Character "Hakkai Halloween": Damage: 7,25, Defense: 3,5, Energy Rate: 3,2 Move Speed: 3, Beast: False
+Character "Beast Erbito": Damage: 11, Defense: 6,75, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Erbito": Damage: 13, Defense: 6,75, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Erbito Halloween": Damage: 5,5, Defense: 4,5, Energy Rate: 4 Move Speed: 2,5, Beast: False
+Character "Erbito Halloween": Damage: 6,5, Defense: 4,5, Energy Rate: 3,2 Move Speed: 3,25, Beast: False
+Character "Beast Siegh Form 1": Damage: 11,5, Defense: 6,3, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Siegh Form 2": Damage: 13,5, Defense: 6,3, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Siegh Halloween": Damage: 5,75, Defense: 4,25, Energy Rate: 4 Move Speed: 2,5, Beast: False
+Character "Siegh Halloween": Damage: 6,75, Defense: 4,25, Energy Rate: 3,2 Move Speed: 3,5, Beast: False
+Character "Enzo (Mini)": Damage: 2, Defense: 1,75, Energy Rate: 4,5 Move Speed: 3,2, Beast: False
+Character "Enzo (Mini)": Damage: 4, Defense: 3,5, Energy Rate: 3,8 Move Speed: 4, Beast: False
+Character "Neff (Mini)": Damage: 2, Defense: 1,75, Energy Rate: 4,5 Move Speed: 3,2, Beast: False
+Character "Neff (Mini)": Damage: 4, Defense: 3,5, Energy Rate: 3,8 Move Speed: 4, Beast: False
+Character "Beast Dark Amazon Form 1": Damage: 18, Defense: 4,5, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Dark Amazon Form 2": Damage: 22, Defense: 6,75, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Dark Amazon Form 3": Damage: 26, Defense: 9, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Dark Amazon Form 4": Damage: 30, Defense: 10,5, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Dark Amazon Form 5": Damage: 34, Defense: 12, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Dark Amazon Form 6": Damage: 38, Defense: 13,5, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Dark Amazon Form 7": Damage: 41, Defense: 15, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Dark Amazon": Damage: 9, Defense: 3, Energy Rate: 4 Move Speed: 2,5, Beast: False
+Character "Dark Amazon": Damage: 11, Defense: 4,5, Energy Rate: 3,2 Move Speed: 2,5, Beast: False
+Character "Dark Amazon": Damage: 13, Defense: 6, Energy Rate: 2,8 Move Speed: 3, Beast: False
+Character "Dark Amazon": Damage: 15, Defense: 7, Energy Rate: 2,5 Move Speed: 4, Beast: False
+Character "Dark Amazon": Damage: 17, Defense: 8, Energy Rate: 2,5 Move Speed: 4,5, Beast: False
+Character "Dark Amazon": Damage: 19, Defense: 9, Energy Rate: 2,5 Move Speed: 4,5, Beast: False
+Character "Dark Amazon": Damage: 21, Defense: 11, Energy Rate: 2,5 Move Speed: 4,5, Beast: False
+Character "Beast Inekkai Form 1": Damage: 20, Defense: 7,5, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Inekkai Form 2": Damage: 7,5, Defense: 5,25, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Inekkai Form 3": Damage: 13,5, Defense: 9,75, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Inekkai Form 4": Damage: 19,5, Defense: 14,25, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Inekkai Form 5": Damage: 25,5, Defense: 18,75, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Dark Enzo Beast": Damage: 18,5, Defense: 10,5, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Dark Enzo Beast": Damage: 21, Defense: 12,375, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Inekkai": Damage: 8,75, Defense: 2,5, Energy Rate: 4 Move Speed: 2,5, Beast: False
+Character "Inekkai": Damage: 9,75, Defense: 4, Energy Rate: 3,2 Move Speed: 3, Beast: False
+Character "Inekkai": Damage: 11,75, Defense: 5,5, Energy Rate: 2,5 Move Speed: 3,5, Beast: False
+Character "Inekkai": Damage: 13,75, Defense: 6, Energy Rate: 2,5 Move Speed: 4, Beast: False
+Character "Inekkai": Damage: 15,75, Defense: 7, Energy Rate: 2,5 Move Speed: 4,5, Beast: False
+Character "Inekkai": Damage: 17,75, Defense: 8, Energy Rate: 2,5 Move Speed: 4,5, Beast: False
+Character "Inekkai": Damage: 19,25, Defense: 10, Energy Rate: 2,5 Move Speed: 4,5, Beast: False
+Character "Beast Erkkai Form 1": Damage: 15,5, Defense: 3,75, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Erkkai Form 2": Damage: 19,5, Defense: 6, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Erkkai Form 3": Damage: 23,5, Defense: 8,25, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Erkkai Form 4": Damage: 27,5, Defense: 9, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Erkkai Form 5": Damage: 31,5, Defense: 14, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Erkkai Form 7": Damage: 39,5, Defense: 15, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Erkkai Form 6": Damage: 35, Defense: 16, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Erkkai": Damage: 7,75, Defense: 2,5, Energy Rate: 4 Move Speed: 2,5, Beast: False
+Character "Erkkai": Damage: 9,75, Defense: 4, Energy Rate: 3,2 Move Speed: 2,5, Beast: False
+Character "Erkkai": Damage: 11,75, Defense: 5,5, Energy Rate: 2,8 Move Speed: 3, Beast: False
+Character "Erkkai": Damage: 13,75, Defense: 6, Energy Rate: 2,5 Move Speed: 4, Beast: False
+Character "Erkkai": Damage: 15,75, Defense: 7, Energy Rate: 2,5 Move Speed: 4,5, Beast: False
+Character "Erkkai": Damage: 17,75, Defense: 8, Energy Rate: 2,5 Move Speed: 4,5, Beast: False
+Character "Erkkai": Damage: 19,75, Defense: 10, Energy Rate: 2,5 Move Speed: 4,5, Beast: False
+Character "Beast Lyshiken Form 1": Damage: 5,5, Defense: 3,75, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Lyshiken Form 2": Damage: 7,5, Defense: 5,25, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Lyshiken Form 3": Damage: 13,5, Defense: 9,75, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Lyshiken Form 4": Damage: 19,5, Defense: 14,25, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Lyshiken Form 5": Damage: 25,5, Defense: 18,75, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Lyshiken Form 6": Damage: 17, Defense: 10,5, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Lyshiken Form 7": Damage: 19,5, Defense: 12,375, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Lyshiken": Damage: 2,75, Defense: 2,5, Energy Rate: 4 Move Speed: 2,5, Beast: False
+Character "Lyshiken": Damage: 3,75, Defense: 3,5, Energy Rate: 3,2 Move Speed: 3, Beast: False
+Character "Lyshiken": Damage: 6,75, Defense: 6,5, Energy Rate: 2,5 Move Speed: 3,5, Beast: False
+Character "Lyshiken": Damage: 9,75, Defense: 9,5, Energy Rate: 2,5 Move Speed: 4, Beast: False
+Character "Lyshiken": Damage: 14, Defense: 12,5, Energy Rate: 3 Move Speed: 4,5, Beast: False
+Character "Beast Zaikon Form 1": Damage: 7, Defense: 6, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Zaikon Form 1": Damage: 27, Defense: 17,25, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Zaicon Chaos": Damage: 3,5, Defense: 4, Energy Rate: 3,75 Move Speed: 3,5, Beast: False
+Character "Zaicon Chaos": Damage: 13,5, Defense: 11,5, Energy Rate: 3,75 Move Speed: 3,5, Beast: False
+Character "Beast Zaycon Form 1": Damage: 4, Defense: 3,75, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Zaycon Form 2": Damage: 7, Defense: 4,5, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Zaycon Form 3": Damage: 13, Defense: 7,5, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Zaycon Form 4": Damage: 18, Defense: 12, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Zaycon Form 5": Damage: 24, Defense: 15, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Zaiko Beast": Damage: 17, Defense: 10,5, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Zaiko Beast": Damage: 19,5, Defense: 12,375, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Zaycon": Damage: 2, Defense: 2,5, Energy Rate: 4 Move Speed: 2,5, Beast: False
+Character "Zaycon": Damage: 3,5, Defense: 3, Energy Rate: 3,2 Move Speed: 3, Beast: False
+Character "Zaycon": Damage: 6,5, Defense: 5, Energy Rate: 2,5 Move Speed: 3,5, Beast: False
+Character "Zaycon": Damage: 9, Defense: 8, Energy Rate: 2,2 Move Speed: 4, Beast: False
+Character "Zaycon": Damage: 13,5, Defense: 10,5, Energy Rate: 3,9 Move Speed: 4,5, Beast: False
+Character "Beast Shukold Form 1": Damage: 4, Defense: 4,5, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Shukold Form 2": Damage: 6,5, Defense: 6,75, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Shukold Form 3": Damage: 10, Defense: 10,5, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Shukold Form 4": Damage: 13,5, Defense: 12,375, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Shukold Form 5": Damage: 19,5, Defense: 15,375, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Zaiko Beast": Damage: 17, Defense: 10,5, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Zaiko Beast": Damage: 19,5, Defense: 12,375, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Shukold": Damage: 2, Defense: 3, Energy Rate: 4 Move Speed: 2,5, Beast: False
+Character "Shukold": Damage: 3,25, Defense: 4,5, Energy Rate: 3,2 Move Speed: 3, Beast: False
+Character "Shukold": Damage: 5, Defense: 7, Energy Rate: 2,8 Move Speed: 3,5, Beast: False
+Character "Shukold": Damage: 6,75, Defense: 8,25, Energy Rate: 2,8 Move Speed: 4, Beast: False
+Character "Shukold": Damage: 15, Defense: 12, Energy Rate: 3 Move Speed: 4,5, Beast: False
+Character "Kysan (Chaos)": Damage: 4,5, Defense: 5, Energy Rate: 4 Move Speed: 2,5, Beast: False
+Character "Kysan (Chaos)": Damage: 12, Defense: 13, Energy Rate: 3 Move Speed: 4,5, Beast: False
+Character "Beast Kysan Form 1": Damage: 5, Defense: 3,75, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Kysan Form 2": Damage: 7,5, Defense: 5,625, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Kysan Form 3": Damage: 12, Defense: 9, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Kysan Form 4": Damage: 15, Defense: 11,25, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Kysan Form 5": Damage: 21, Defense: 14,25, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Kysan": Damage: 2,5, Defense: 2,5, Energy Rate: 4 Move Speed: 2,5, Beast: False
+Character "Kysan": Damage: 3,75, Defense: 3,75, Energy Rate: 3,2 Move Speed: 3, Beast: False
+Character "Kysan": Damage: 6, Defense: 6, Energy Rate: 2,8 Move Speed: 3,5, Beast: False
+Character "Kysan": Damage: 7,5, Defense: 7,5, Energy Rate: 2,8 Move Speed: 4, Beast: False
+Character "Kysan": Damage: 10,75, Defense: 10,25, Energy Rate: 2,8 Move Speed: 4,5, Beast: False
+Character "Beast Dark Nenzo Form 1": Damage: 8, Defense: 7,5, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Dark Nenzo Form 2": Damage: 10, Defense: 8,25, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Dark Nenzo Form 3": Damage: 15, Defense: 11,25, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Dark Nenzo Form 4": Damage: 22, Defense: 15,75, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Dark Nenzo Form 5": Damage: 27, Defense: 18,75, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Dark Enzo Beast": Damage: 18,5, Defense: 10,5, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Dark Enzo Beast": Damage: 21, Defense: 12,375, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Dark Nenzo": Damage: 2,5, Defense: 2,25, Energy Rate: 4 Move Speed: 2,5, Beast: False
+Character "Dark Nenzo": Damage: 4, Defense: 2,75, Energy Rate: 3,2 Move Speed: 2,5, Beast: False
+Character "Dark Nenzo": Damage: 7, Defense: 4,75, Energy Rate: 2,5 Move Speed: 3, Beast: False
+Character "Dark Nenzo": Damage: 9,5, Defense: 8,75, Energy Rate: 2,2 Move Speed: 4, Beast: False
+Character "Dark Nenzo": Damage: 12, Defense: 9,75, Energy Rate: 2,2 Move Speed: 4,5, Beast: False
+Character "Beast Nenzo Form 1": Damage: 7, Defense: 6, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Nenzo Form 1": Damage: 26, Defense: 17,5, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Nenzo Chaos": Damage: 3,5, Defense: 4, Energy Rate: 3,75 Move Speed: 3,5, Beast: False
+Character "Nenzo Chaos": Damage: 14, Defense: 11,75, Energy Rate: 3,75 Move Speed: 4,5, Beast: False
+Character "Beast Nenzo": Damage: 4, Defense: 3,75, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Nenzo": Damage: 7, Defense: 4,5, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Nenzo": Damage: 13, Defense: 7,5, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Nenzo": Damage: 18, Defense: 7,875, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Nenzo": Damage: 23, Defense: 11, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Nenzo": Damage: 25, Defense: 13, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Nenzo": Damage: 29, Defense: 15, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Nenzo": Damage: 2, Defense: 2,5, Energy Rate: 4 Move Speed: 2,5, Beast: False
+Character "Nenzo": Damage: 3,5, Defense: 3, Energy Rate: 3,2 Move Speed: 3, Beast: False
+Character "Nenzo": Damage: 6,5, Defense: 5, Energy Rate: 2,5 Move Speed: 3,5, Beast: False
+Character "Nenzo": Damage: 9, Defense: 8, Energy Rate: 2,2 Move Speed: 4, Beast: False
+Character "Nenzo": Damage: 11,5, Defense: 10, Energy Rate: 2,2 Move Speed: 4,5, Beast: False
+Character "Nenzo Crystal": Damage: 14,5, Defense: 12,5, Energy Rate: 2,5 Move Speed: 4,5, Beast: False

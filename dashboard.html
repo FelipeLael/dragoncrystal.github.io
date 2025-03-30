@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Character Dashboard</title>
+    <link rel="stylesheet" href="dashboard.css">
+</head>
+<body>
+    <div class="stats">
+        <span id="characterCount">Loading database...</span>
+    </div>
+    
+    <div id="fileControls" class="file-controls hidden">
+        <p>Automatic database loading failed due to browser security restrictions. Please select the database.txt file manually (it should be in the same folder as this HTML file):</p>
+        <input type="file" id="databaseFile" accept=".txt">
+        <button id="loadFileBtn">Load File</button>
+    </div>
+    
+    <button id="exportBtn">Export to Excel</button>
+    <button id="reloadBtn">Reload Database</button>
+    <button id="toggleBeastBtn">HideBeast</button>
+    <button id="onlyBeastBtn">OnlyBeast</button>
+    
+    <table id="characterTable">
+        <thead>
+            <tr>
+                <th data-column="0">Name</th>
+                <th data-column="1">Damage</th>
+                <th data-column="2">Defense</th>
+                <th data-column="3">Energy Rate</th>
+                <th data-column="4">Move Speed</th>
+                <th data-column="5">Average</th>
+                <th data-column="6">Beast</th>
+            </tr>
+        </thead>
+        <tbody id="tableBody"></tbody>
+    </table>
+
+    <script src="https://cdn.jsdelivr.net/npm/xlsx@0.18.5/dist/xlsx.full.min.js"></script>
+    <script src="dashboard.js"></script>
+</body>
+</html>
