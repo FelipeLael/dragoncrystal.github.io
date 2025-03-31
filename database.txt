@@ -843,8 +843,6 @@ Character "Beast Dark Nenzo Form 2": Damage: 10, Defense: 8,25, Energy Rate: 2,5
 Character "Beast Dark Nenzo Form 3": Damage: 15, Defense: 11,25, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
 Character "Beast Dark Nenzo Form 4": Damage: 22, Defense: 15,75, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
 Character "Beast Dark Nenzo Form 5": Damage: 27, Defense: 18,75, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
-Character "Dark Enzo Beast": Damage: 18,5, Defense: 10,5, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
-Character "Dark Enzo Beast": Damage: 21, Defense: 12,375, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
 Character "Dark Nenzo": Damage: 2,5, Defense: 2,25, Energy Rate: 4 Move Speed: 2,5, Beast: False
 Character "Dark Nenzo": Damage: 4, Defense: 2,75, Energy Rate: 3,2 Move Speed: 2,5, Beast: False
 Character "Dark Nenzo": Damage: 7, Defense: 4,75, Energy Rate: 2,5 Move Speed: 3, Beast: False
