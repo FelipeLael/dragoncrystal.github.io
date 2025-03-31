@@ -1,9 +1,9 @@
 Character "Scrop": Damage: 7,75, Defense: 7,5, Energy Rate: 1,8 Move Speed: 4,5, Beast: False
-Character Renegade God Crystal": Damage: 9,75, Defense: 2,8, Energy Rate: 3,8 Move Speed: 2,5, Beast: False
-Character Renegade God Crystal": Damage: 13,25, Defense: 6, Energy Rate: 3,5 Move Speed: 3,5, Beast: False
-Character Renegade God Crystal": Damage: 17, Defense: 8,25, Energy Rate: 3 Move Speed: 4,5, Beast: False
-Character Renegade God Crystal": Damage: 20, Defense: 10,2, Energy Rate: 2,8 Move Speed: 4,8, Beast: False
-Character Doom's Experiment God Crystal": Damage: 14,25, Defense: 12,5, Energy Rate: 3,8 Move Speed: 3,2, Beast: False
+Character "Renegade God Crystal": Damage: 9,75, Defense: 2,8, Energy Rate: 3,8 Move Speed: 2,5, Beast: False
+Character "Renegade God Crystal": Damage: 13,25, Defense: 6, Energy Rate: 3,5 Move Speed: 3,5, Beast: False
+Character "Renegade God Crystal": Damage: 17, Defense: 8,25, Energy Rate: 3 Move Speed: 4,5, Beast: False
+Character "Renegade God Crystal": Damage: 20, Defense: 10,2, Energy Rate: 2,8 Move Speed: 4,8, Beast: False
+Character "Doom's Experiment God Crystal": Damage: 14,25, Defense: 12,5, Energy Rate: 3,8 Move Speed: 3,2, Beast: False
 Character "God Crystal": Damage: 9,25, Defense: 3, Energy Rate: 4 Move Speed: 2,5, Beast: False
 Character "God Crystal": Damage: 13,25, Defense: 6, Energy Rate: 3,5 Move Speed: 3,5, Beast: False
 Character "God Crystal": Damage: 17, Defense: 8,25, Energy Rate: 3 Move Speed: 4,5, Beast: False
