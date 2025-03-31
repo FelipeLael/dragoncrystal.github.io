@@ -697,7 +697,7 @@ Character "Jim Christmas": Damage: 12, Defense: 9, Energy Rate: 3,2 Move Speed: 
 Character "Jim Christmas": Damage: 16, Defense: 11, Energy Rate: 2,8 Move Speed: 4,5, Beast: False
 Character "Lyshira Xmas": Damage: 2, Defense: 3, Energy Rate: 4,2 Move Speed: 4, Beast: False
 Character "Lyshira Xmas": Damage: 4, Defense: 5, Energy Rate: 3,8 Move Speed: 4,5, Beast: False
-Character "Zoop": Damage: 9,25, Defense: 13, Energy Rate: 3 Move Speed: 4, Beast: False
+Character "Zoop Christmas": Damage: 9,25, Defense: 13, Energy Rate: 3 Move Speed: 4, Beast: False
 Character "Nenzo Christmas": Damage: 3,5, Defense: 3,5, Energy Rate: 4 Move Speed: 3, Beast: False
 Character "Nenzo Christmas": Damage: 5,5, Defense: 5,5, Energy Rate: 3,2 Move Speed: 4, Beast: False
 Character "Nenzo Christmas": Damage: 7,5, Defense: 7,5, Energy Rate: 2,8 Move Speed: 5, Beast: False
