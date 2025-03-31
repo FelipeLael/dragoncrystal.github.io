@@ -437,13 +437,13 @@ Character "Arthur": Damage: 3,5, Defense: 4, Energy Rate: 3,2 Move Speed: 3, Bea
 Character "Arthur": Damage: 5,5, Defense: 6, Energy Rate: 2,5 Move Speed: 3,5, Beast: False
 Character "Arthur": Damage: 7,5, Defense: 8, Energy Rate: 2,2 Move Speed: 4, Beast: False
 Character "Arthur": Damage: 13, Defense: 10, Energy Rate: 2,5 Move Speed: 4,5, Beast: False
-Character "Best Dark Frango": Damage: 3,5, Defense: 1,875, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
-Character "Best Dark Frango": Damage: 5,5, Defense: 3,15, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
-Character "Best Dark Frango": Damage: 11,5, Defense: 7,125, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
-Character "Best Dark Frango": Damage: 15,5, Defense: 10,5, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
-Character "Best Dark Frango": Damage: 18,5, Defense: 12,375, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
-Character "Best Dark Frango": Damage: 18,5, Defense: 10,5, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
-Character "Best Dark Frango": Damage: 21, Defense: 12,375, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Frango": Damage: 3,5, Defense: 1,875, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Frango": Damage: 5,5, Defense: 3,15, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Frango": Damage: 11,5, Defense: 7,125, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Frango": Damage: 15,5, Defense: 10,5, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Frango": Damage: 18,5, Defense: 12,375, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Frango": Damage: 18,5, Defense: 10,5, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Frango": Damage: 21, Defense: 12,375, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
 Character "Frango": Damage: 2,5, Defense: 2, Energy Rate: 4 Move Speed: 2,5, Beast: False
 Character "Frango": Damage: 3,75, Defense: 3,2, Energy Rate: 3,2 Move Speed: 3, Beast: False
 Character "Frango": Damage: 6, Defense: 5, Energy Rate: 2,5 Move Speed: 3,5, Beast: False
