@@ -240,8 +240,8 @@ Character "Bruce": Damage: 3, Defense: 7, Energy Rate: 3 Move Speed: 2,75, Beast
 Character "Bruce": Damage: 4,25, Defense: 9, Energy Rate: 2,65 Move Speed: 3, Beast: False
 Character "Bruce": Damage: 6,25, Defense: 11, Energy Rate: 2,35 Move Speed: 3,5, Beast: False
 Character "Bruce": Damage: 8,75, Defense: 13, Energy Rate: 2 Move Speed: 4, Beast: False
-Character "Beast Tigre Form 1 Chaos": Damage: 21, Defense: 6,75, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
-Character "Beast Tigre Form 1 Chaos": Damage: 37, Defense: 14,25, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Tigre Chaos": Damage: 21, Defense: 6,75, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Tigre Chaos": Damage: 37, Defense: 14,25, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
 Character "Tigre Chaos": Damage: 10,5, Defense: 4,5, Energy Rate: 3,75 Move Speed: 3,5, Beast: False
 Character "Tigre Chaos": Damage: 18,5, Defense: 9,5, Energy Rate: 3,75 Move Speed: 3,5, Beast: False
 Character "Beast Tigre Form 1": Damage: 18, Defense: 4,5, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
@@ -391,8 +391,8 @@ Character "Dark Erbito": Damage: 8, Defense: 7,5, Energy Rate: 2,2 Move Speed: 4
 Character "Dark Erbito": Damage: 10,25, Defense: 9, Energy Rate: 1,8 Move Speed: 4,5, Beast: False
 Character "Dark Erbito": Damage: 12,25, Defense: 11, Energy Rate: 2,9 Move Speed: 4,5, Beast: False
 Character "Dark Erbito": Damage: 16, Defense: 12, Energy Rate: 3,2 Move Speed: 4,5, Beast: False
-Character "Beast Erbito Form 1 Chaos": Damage: 7, Defense: 6, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
-Character "Beast Erbito Form 1 Chaos": Damage: 22, Defense: 17,25, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Erbito Chaos": Damage: 7, Defense: 6, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Erbito Chaos": Damage: 22, Defense: 17,25, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
 Character "Erbito Chaos": Damage: 3,5, Defense: 4, Energy Rate: 3,75 Move Speed: 3,5, Beast: False
 Character "Erbito Chaos": Damage: 11, Defense: 11,5, Energy Rate: 3,75 Move Speed: 3,5, Beast: False
 Character "Beast Erbito Form 1": Damage: 4, Defense: 3,75, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
@@ -552,8 +552,8 @@ Character "Zaiko AF": Damage: 8,75, Defense: 3,75, Energy Rate: 2,2 Move Speed: 
 Character "Zaiko AF": Damage: 11, Defense: 5,5, Energy Rate: 2 Move Speed: 4,5, Beast: False
 Character "Zaiko AF": Damage: 12, Defense: 7,25, Energy Rate: 2 Move Speed: 4,5, Beast: False
 Character "Zaiko AF": Damage: 14,5, Defense: 10,25, Energy Rate: 2,5 Move Speed: 4,5, Beast: False
-Character "Beast Zaiko Form 1 Chaos": Damage: 6,5, Defense: 4, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
-Character "Beast Zaiko Form 1 Chaos": Damage: 17,5, Defense: 12,25, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Zaiko Chaos": Damage: 6,5, Defense: 4, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Zaiko Chaos": Damage: 17,5, Defense: 12,25, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
 Character "Zaiko Chaos": Damage: 3,25, Defense: 2,75, Energy Rate: 3,75 Move Speed: 3,5, Beast: False
 Character "Zaiko Chaos": Damage: 8,75, Defense: 8,25, Energy Rate: 3,75 Move Speed: 3,5, Beast: False
 Character "Beast Zaiko Form 1": Damage: 3,5, Defense: 1,875, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
@@ -800,8 +800,8 @@ Character "Lyshiken": Damage: 3,75, Defense: 3,5, Energy Rate: 3,2 Move Speed: 3
 Character "Lyshiken": Damage: 6,75, Defense: 6,5, Energy Rate: 2,5 Move Speed: 3,5, Beast: False
 Character "Lyshiken": Damage: 9,75, Defense: 9,5, Energy Rate: 2,5 Move Speed: 4, Beast: False
 Character "Lyshiken": Damage: 14, Defense: 12,5, Energy Rate: 3 Move Speed: 4,5, Beast: False
-Character "Beast Zaikon Form 1 Chaos": Damage: 7, Defense: 6, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
-Character "Beast Zaikon Form 1 Chaos": Damage: 27, Defense: 17,25, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Zaikon Chaos": Damage: 7, Defense: 6, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Zaikon Chaos": Damage: 27, Defense: 17,25, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
 Character "Zaicon Chaos": Damage: 3,5, Defense: 4, Energy Rate: 3,75 Move Speed: 3,5, Beast: False
 Character "Zaicon Chaos": Damage: 13,5, Defense: 11,5, Energy Rate: 3,75 Move Speed: 3,5, Beast: False
 Character "Beast Zaycon Form 1": Damage: 4, Defense: 3,75, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
@@ -852,8 +852,8 @@ Character "Dark Nenzo": Damage: 4, Defense: 2,75, Energy Rate: 3,2 Move Speed: 2
 Character "Dark Nenzo": Damage: 7, Defense: 4,75, Energy Rate: 2,5 Move Speed: 3, Beast: False
 Character "Dark Nenzo": Damage: 9,5, Defense: 8,75, Energy Rate: 2,2 Move Speed: 4, Beast: False
 Character "Dark Nenzo": Damage: 12, Defense: 9,75, Energy Rate: 2,2 Move Speed: 4,5, Beast: False
-Character "Beast Nenzo Form 1 Chaos": Damage: 7, Defense: 6, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
-Character "Beast Nenzo Form 1 Chaos": Damage: 26, Defense: 17,5, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Nenzo Chaos": Damage: 7, Defense: 6, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Nenzo Chaos": Damage: 26, Defense: 17,5, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
 Character "Nenzo Chaos": Damage: 3,5, Defense: 4, Energy Rate: 3,75 Move Speed: 3,5, Beast: False
 Character "Nenzo Chaos": Damage: 14, Defense: 11,75, Energy Rate: 3,75 Move Speed: 4,5, Beast: False
 Character "Beast Nenzo": Damage: 4, Defense: 3,75, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
