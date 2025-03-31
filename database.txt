@@ -401,7 +401,6 @@ Character "Beast Erbito Form 3": Damage: 11, Defense: 9, Energy Rate: 2,5 Move S
 Character "Beast Erbito Form 4": Damage: 15, Defense: 12, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
 Character "Beast Erbito Form 5": Damage: 19, Defense: 15, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
 Character "Beast Erbito Form 6": Damage: 23, Defense: 18, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
-Character "Zaiko Beast": Damage: 19,5, Defense: 12,375, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
 Character "Erbito": Damage: 2, Defense: 2,5, Energy Rate: 4 Move Speed: 2,5, Beast: False
 Character "Erbito": Damage: 3,5, Defense: 4, Energy Rate: 3,2 Move Speed: 2,5, Beast: False
 Character "Erbito": Damage: 5,5, Defense: 6, Energy Rate: 2,5 Move Speed: 3, Beast: False
