@@ -125,7 +125,9 @@ class CharacterModel {
                 
                 // Assign form numbers
                 forms.forEach((form, index) => {
-                    form.displayName = `${form.name} (Form ${index + 1})`;
+                    form.displayName = index === 0 
+                        ? `${form.name} (Base)` 
+                        : `${form.name} (Form ${index})`;
                 });
             } else {
                 // Single form - just use original name
