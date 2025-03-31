@@ -78,7 +78,7 @@ class CharacterModel {
             .split('\n')
             .filter(line => line.trim().startsWith('Character'))
             .map(line => {
-                const match = line.match(/Character\s+"([^"]+)":\s+Damage:\s+([\d,]+),\s+Defense:\s+([\d,]+),\s+Energy Rate:\s+([\d,]+)\s+Move Speed:\s+([\d,]+),\s+Beast:\s+(\w+)/);
+                const match = line.match(/Character\s+"?([^"]+)"?:\s+Damage:\s+([\d,]+),\s+Defense:\s+([\d,]+),\s+Energy Rate:\s+([\d,]+)\s+Move Speed:\s+([\d,]+),\s+Beast:\s+(\w+)/);
                 if (match) {
                     return {
                         name: match[1],
