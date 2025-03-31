@@ -604,14 +604,14 @@ Character "Beast Dark Enzo Form 3": Damage: 8,5, Defense: 5,25, Energy Rate: 2,5
 Character "Beast Dark Enzo Form 4": Damage: 11,5, Defense: 7,5, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
 Character "Beast Dark Enzo Form 5": Damage: 14,5, Defense: 10,125, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
 Character "Beast Dark Enzo Form 6": Damage: 17, Defense: 11,625, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
-Character "Beast Dark Enzo Crystal Form 7": Damage: 20, Defense: 14,25, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Dark Enzo Form 7": Damage: 20, Defense: 14,25, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
 Character "Dark Enzo": Damage: 2,25, Defense: 1,5, Energy Rate: 4 Move Speed: 2,5, Beast: False
 Character "Dark Enzo": Damage: 3,25, Defense: 2,5, Energy Rate: 3,2 Move Speed: 2,5, Beast: False
 Character "Dark Enzo": Damage: 4,25, Defense: 3,5, Energy Rate: 2,5 Move Speed: 3, Beast: False
 Character "Dark Enzo": Damage: 5,75, Defense: 5, Energy Rate: 2,2 Move Speed: 4, Beast: False
 Character "Dark Enzo": Damage: 7,25, Defense: 6,75, Energy Rate: 2,2 Move Speed: 4,5, Beast: False
 Character "Dark Enzo": Damage: 8,5, Defense: 7,75, Energy Rate: 2,2 Move Speed: 4,5, Beast: False
-Character "Dark Enzo Crystal": Damage: 10, Defense: 9,5, Energy Rate: 2,5 Move Speed: 4,5, Beast: False
+Character "Dark Enzo": Damage: 10, Defense: 9,5, Energy Rate: 2,5 Move Speed: 4,5, Beast: False
 Character "Beast Enzo Form 1": Damage: 3, Defense: 1,5, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
 Character "Beast Enzo Form 2": Damage: 5, Defense: 3, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
 Character "Beast Enzo Form 3": Damage: 7, Defense: 4,5, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
