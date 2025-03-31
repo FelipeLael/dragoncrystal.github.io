@@ -869,4 +869,4 @@ Character "Nenzo": Damage: 3,5, Defense: 3, Energy Rate: 3,2 Move Speed: 3, Beas
 Character "Nenzo": Damage: 6,5, Defense: 5, Energy Rate: 2,5 Move Speed: 3,5, Beast: False
 Character "Nenzo": Damage: 9, Defense: 8, Energy Rate: 2,2 Move Speed: 4, Beast: False
 Character "Nenzo": Damage: 11,5, Defense: 10, Energy Rate: 2,2 Move Speed: 4,5, Beast: False
-Character "Nenzo Crystal": Damage: 14,5, Defense: 12,5, Energy Rate: 2,5 Move Speed: 4,5, Beast: False
+Character "Nenzo": Damage: 14,5, Defense: 12,5, Energy Rate: 2,5 Move Speed: 4,5, Beast: False
