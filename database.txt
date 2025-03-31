@@ -711,7 +711,7 @@ Character "Neff Christmas": Damage: 2,25, Defense: 3, Energy Rate: 4 Move Speed:
 Character "Neff Christmas": Damage: 4, Defense: 5, Energy Rate: 3,2 Move Speed: 4, Beast: False
 Character "Neff Christmas": Damage: 6, Defense: 7, Energy Rate: 2,5 Move Speed: 4,5, Beast: False
 Character "Beast Halloween Master": Damage: 20, Defense: 12, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
-Character "Beast Chaos": Damage: 34, Defense: 12, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Halloween Master": Damage: 34, Defense: 12, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
 Character "Neff Toy": Damage: 1,75, Defense: 1,5, Energy Rate: 3,25 Move Speed: 2,75, Beast: False
 Character "Halloween Master": Damage: 10, Defense: 8, Energy Rate: 3,2 Move Speed: 4, Beast: False
 Character "Halloween Master": Damage: 17, Defense: 8, Energy Rate: 2,9 Move Speed: 4,5, Beast: False
