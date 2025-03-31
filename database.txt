@@ -240,8 +240,8 @@ Character "Bruce": Damage: 3, Defense: 7, Energy Rate: 3 Move Speed: 2,75, Beast
 Character "Bruce": Damage: 4,25, Defense: 9, Energy Rate: 2,65 Move Speed: 3, Beast: False
 Character "Bruce": Damage: 6,25, Defense: 11, Energy Rate: 2,35 Move Speed: 3,5, Beast: False
 Character "Bruce": Damage: 8,75, Defense: 13, Energy Rate: 2 Move Speed: 4, Beast: False
-Character "Beast Tigre Form 1": Damage: 21, Defense: 6,75, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
-Character "Beast Tigre Form 1": Damage: 37, Defense: 14,25, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Tigre Form 1 Chaos": Damage: 21, Defense: 6,75, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Tigre Form 1 Chaos": Damage: 37, Defense: 14,25, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
 Character "Tigre Chaos": Damage: 10,5, Defense: 4,5, Energy Rate: 3,75 Move Speed: 3,5, Beast: False
 Character "Tigre Chaos": Damage: 18,5, Defense: 9,5, Energy Rate: 3,75 Move Speed: 3,5, Beast: False
 Character "Beast Tigre Form 1": Damage: 18, Defense: 4,5, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
@@ -391,8 +391,8 @@ Character "Dark Erbito": Damage: 8, Defense: 7,5, Energy Rate: 2,2 Move Speed: 4
 Character "Dark Erbito": Damage: 10,25, Defense: 9, Energy Rate: 1,8 Move Speed: 4,5, Beast: False
 Character "Dark Erbito": Damage: 12,25, Defense: 11, Energy Rate: 2,9 Move Speed: 4,5, Beast: False
 Character "Dark Erbito": Damage: 16, Defense: 12, Energy Rate: 3,2 Move Speed: 4,5, Beast: False
-Character "Beast Erbito Form 1": Damage: 7, Defense: 6, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
-Character "Beast Erbito Form 1": Damage: 22, Defense: 17,25, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Erbito Form 1 Chaos": Damage: 7, Defense: 6, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Erbito Form 1 Chaos": Damage: 22, Defense: 17,25, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
 Character "Erbito Chaos": Damage: 3,5, Defense: 4, Energy Rate: 3,75 Move Speed: 3,5, Beast: False
 Character "Erbito Chaos": Damage: 11, Defense: 11,5, Energy Rate: 3,75 Move Speed: 3,5, Beast: False
 Character "Beast Erbito Form 1": Damage: 4, Defense: 3,75, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
@@ -553,8 +553,8 @@ Character "Zaiko AF": Damage: 8,75, Defense: 3,75, Energy Rate: 2,2 Move Speed: 
 Character "Zaiko AF": Damage: 11, Defense: 5,5, Energy Rate: 2 Move Speed: 4,5, Beast: False
 Character "Zaiko AF": Damage: 12, Defense: 7,25, Energy Rate: 2 Move Speed: 4,5, Beast: False
 Character "Zaiko AF": Damage: 14,5, Defense: 10,25, Energy Rate: 2,5 Move Speed: 4,5, Beast: False
-Character "Beast Zaiko Form 1": Damage: 6,5, Defense: 4, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
-Character "Beast Zaiko Form 1": Damage: 17,5, Defense: 12,25, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Zaiko Form 1 Chaos": Damage: 6,5, Defense: 4, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Zaiko Form 1 Chaos": Damage: 17,5, Defense: 12,25, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
 Character "Zaiko Chaos": Damage: 3,25, Defense: 2,75, Energy Rate: 3,75 Move Speed: 3,5, Beast: False
 Character "Zaiko Chaos": Damage: 8,75, Defense: 8,25, Energy Rate: 3,75 Move Speed: 3,5, Beast: False
 Character "Beast Zaiko Form 1": Damage: 3,5, Defense: 1,875, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
@@ -697,7 +697,7 @@ Character "Jim Christmas": Damage: 12, Defense: 9, Energy Rate: 3,2 Move Speed: 
 Character "Jim Christmas": Damage: 16, Defense: 11, Energy Rate: 2,8 Move Speed: 4,5, Beast: False
 Character "Lyshira Xmas": Damage: 2, Defense: 3, Energy Rate: 4,2 Move Speed: 4, Beast: False
 Character "Lyshira Xmas": Damage: 4, Defense: 5, Energy Rate: 3,8 Move Speed: 4,5, Beast: False
-Character "Zoop Christmas": Damage: 9,25, Defense: 13, Energy Rate: 3 Move Speed: 4, Beast: False
+Character "Zoop": Damage: 9,25, Defense: 13, Energy Rate: 3 Move Speed: 4, Beast: False
 Character "Nenzo Christmas": Damage: 3,5, Defense: 3,5, Energy Rate: 4 Move Speed: 3, Beast: False
 Character "Nenzo Christmas": Damage: 5,5, Defense: 5,5, Energy Rate: 3,2 Move Speed: 4, Beast: False
 Character "Nenzo Christmas": Damage: 7,5, Defense: 7,5, Energy Rate: 2,8 Move Speed: 5, Beast: False
@@ -719,24 +719,24 @@ Character "Beast Sangh": Damage: 15,5, Defense: 10, Energy Rate: 2,5 Move Speed:
 Character "Beast Sangh": Damage: 21,5, Defense: 10, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
 Character "Sangh Halloween": Damage: 7,75, Defense: 6,75, Energy Rate: 3,25 Move Speed: 2,75, Beast: False
 Character "Sangh Halloween": Damage: 10,75, Defense: 6,75, Energy Rate: 2,8 Move Speed: 3,75, Beast: False
-Character "Beast Erkkai": Damage: 17,5, Defense: 7,9, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
-Character "Beast Erkkai": Damage: 24,5, Defense: 7,9, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Erkkai Halloween": Damage: 17,5, Defense: 7,9, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Erkkai Halloween": Damage: 24,5, Defense: 7,9, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
 Character "Erkkai Halloween": Damage: 8,75, Defense: 5,25, Energy Rate: 3,25 Move Speed: 2,75, Beast: False
 Character "Erkkai Halloween": Damage: 12,25, Defense: 5,25, Energy Rate: 2,8 Move Speed: 3,5, Beast: False
-Character "Beast Tigre": Damage: 12,5, Defense: 7,75, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
-Character "Beast Tigre": Damage: 14,5, Defense: 7,5, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Tigre Halloween": Damage: 12,5, Defense: 7,75, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Tigre Halloween": Damage: 14,5, Defense: 7,5, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
 Character "Tigre Halloween": Damage: 6,25, Defense: 5, Energy Rate: 4 Move Speed: 3,5, Beast: False
 Character "Tigre Halloween": Damage: 7,25, Defense: 5, Energy Rate: 3,2 Move Speed: 4,5, Beast: False
 Character "Beast Dante": Damage: 11, Defense: 7,9, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
 Character "Beast Dante": Damage: 12, Defense: 7,9, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
 Character "Dante Halloween": Damage: 5,5, Defense: 5,25, Energy Rate: 4 Move Speed: 2,5, Beast: False
 Character "Dante Halloween": Damage: 6, Defense: 5,25, Energy Rate: 3,2 Move Speed: 3,25, Beast: False
-Character "Beast Hakkai": Damage: 12,5, Defense: 5,25, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
-Character "Beast Hakkai": Damage: 14,5, Defense: 5,25, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Hakkai Halloween": Damage: 12,5, Defense: 5,25, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Hakkai Halloween": Damage: 14,5, Defense: 5,25, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
 Character "Hakkai Halloween": Damage: 6,25, Defense: 3,5, Energy Rate: 4 Move Speed: 2,5, Beast: False
 Character "Hakkai Halloween": Damage: 7,25, Defense: 3,5, Energy Rate: 3,2 Move Speed: 3, Beast: False
-Character "Beast Erbito": Damage: 11, Defense: 6,75, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
-Character "Beast Erbito": Damage: 13, Defense: 6,75, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Erbito Halloween": Damage: 11, Defense: 6,75, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Erbito Halloween": Damage: 13, Defense: 6,75, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
 Character "Erbito Halloween": Damage: 5,5, Defense: 4,5, Energy Rate: 4 Move Speed: 2,5, Beast: False
 Character "Erbito Halloween": Damage: 6,5, Defense: 4,5, Energy Rate: 3,2 Move Speed: 3,25, Beast: False
 Character "Beast Siegh Form 1": Damage: 11,5, Defense: 6,3, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
@@ -801,8 +801,8 @@ Character "Lyshiken": Damage: 3,75, Defense: 3,5, Energy Rate: 3,2 Move Speed: 3
 Character "Lyshiken": Damage: 6,75, Defense: 6,5, Energy Rate: 2,5 Move Speed: 3,5, Beast: False
 Character "Lyshiken": Damage: 9,75, Defense: 9,5, Energy Rate: 2,5 Move Speed: 4, Beast: False
 Character "Lyshiken": Damage: 14, Defense: 12,5, Energy Rate: 3 Move Speed: 4,5, Beast: False
-Character "Beast Zaikon Form 1": Damage: 7, Defense: 6, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
-Character "Beast Zaikon Form 1": Damage: 27, Defense: 17,25, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Zaikon Form 1 Chaos": Damage: 7, Defense: 6, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Zaikon Form 1 Chaos": Damage: 27, Defense: 17,25, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
 Character "Zaicon Chaos": Damage: 3,5, Defense: 4, Energy Rate: 3,75 Move Speed: 3,5, Beast: False
 Character "Zaicon Chaos": Damage: 13,5, Defense: 11,5, Energy Rate: 3,75 Move Speed: 3,5, Beast: False
 Character "Beast Zaycon Form 1": Damage: 4, Defense: 3,75, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
@@ -853,8 +853,8 @@ Character "Dark Nenzo": Damage: 4, Defense: 2,75, Energy Rate: 3,2 Move Speed: 2
 Character "Dark Nenzo": Damage: 7, Defense: 4,75, Energy Rate: 2,5 Move Speed: 3, Beast: False
 Character "Dark Nenzo": Damage: 9,5, Defense: 8,75, Energy Rate: 2,2 Move Speed: 4, Beast: False
 Character "Dark Nenzo": Damage: 12, Defense: 9,75, Energy Rate: 2,2 Move Speed: 4,5, Beast: False
-Character "Beast Nenzo Form 1": Damage: 7, Defense: 6, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
-Character "Beast Nenzo Form 1": Damage: 26, Defense: 17,5, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Nenzo Form 1 Chaos": Damage: 7, Defense: 6, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Nenzo Form 1 Chaos": Damage: 26, Defense: 17,5, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
 Character "Nenzo Chaos": Damage: 3,5, Defense: 4, Energy Rate: 3,75 Move Speed: 3,5, Beast: False
 Character "Nenzo Chaos": Damage: 14, Defense: 11,75, Energy Rate: 3,75 Move Speed: 4,5, Beast: False
 Character "Beast Nenzo": Damage: 4, Defense: 3,75, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
