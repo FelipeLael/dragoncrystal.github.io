@@ -765,8 +765,6 @@ Character "Beast Inekkai Form 2": Damage: 7,5, Defense: 5,25, Energy Rate: 2,5 M
 Character "Beast Inekkai Form 3": Damage: 13,5, Defense: 9,75, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
 Character "Beast Inekkai Form 4": Damage: 19,5, Defense: 14,25, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
 Character "Beast Inekkai Form 5": Damage: 25,5, Defense: 18,75, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
-Character "Dark Enzo Beast": Damage: 18,5, Defense: 10,5, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
-Character "Dark Enzo Beast": Damage: 21, Defense: 12,375, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
 Character "Inekkai": Damage: 8,75, Defense: 2,5, Energy Rate: 4 Move Speed: 2,5, Beast: False
 Character "Inekkai": Damage: 9,75, Defense: 4, Energy Rate: 3,2 Move Speed: 3, Beast: False
 Character "Inekkai": Damage: 11,75, Defense: 5,5, Energy Rate: 2,5 Move Speed: 3,5, Beast: False
