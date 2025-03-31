@@ -78,6 +78,10 @@ class CharacterModel {
             .split('\n')
             .filter(line => line.trim().startsWith('Character'))
             .map(line => {
+                // Remove any "Form X" suffix from the name
+                line = line.replace(/ Form \d+"/, '"');
+
+                // Updated regex to properly match the character format
                 const match = line.match(/Character\s+"?([^"]+)"?:\s+Damage:\s+([\d,]+),\s+Defense:\s+([\d,]+),\s+Energy Rate:\s+([\d,]+)\s+Move Speed:\s+([\d,]+),\s+Beast:\s+(\w+)/);
                 if (match) {
                     return {
@@ -89,6 +93,7 @@ class CharacterModel {
                         beast: match[6] === 'True'
                     };
                 }
+                console.log("Failed to parse line:", line); // Add debugging
                 return null;
             })
             .filter(char => char !== null);
