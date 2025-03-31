@@ -437,13 +437,13 @@ Character "Arthur": Damage: 3,5, Defense: 4, Energy Rate: 3,2 Move Speed: 3, Bea
 Character "Arthur": Damage: 5,5, Defense: 6, Energy Rate: 2,5 Move Speed: 3,5, Beast: False
 Character "Arthur": Damage: 7,5, Defense: 8, Energy Rate: 2,2 Move Speed: 4, Beast: False
 Character "Arthur": Damage: 13, Defense: 10, Energy Rate: 2,5 Move Speed: 4,5, Beast: False
-Character "Beast Frango": Damage: 3,5, Defense: 1,875, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
-Character "Beast Frango": Damage: 5,5, Defense: 3,15, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
-Character "Beast Frango": Damage: 11,5, Defense: 7,125, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
-Character "Beast Frango": Damage: 15,5, Defense: 10,5, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
-Character "Beast Frango": Damage: 18,5, Defense: 12,375, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
-Character "Beast Frango": Damage: 18,5, Defense: 10,5, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
-Character "Beast Frango": Damage: 21, Defense: 12,375, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Best Dark Frango": Damage: 3,5, Defense: 1,875, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Best Dark Frango": Damage: 5,5, Defense: 3,15, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Best Dark Frango": Damage: 11,5, Defense: 7,125, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Best Dark Frango": Damage: 15,5, Defense: 10,5, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Best Dark Frango": Damage: 18,5, Defense: 12,375, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Best Dark Frango": Damage: 18,5, Defense: 10,5, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Best Dark Frango": Damage: 21, Defense: 12,375, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
 Character "Frango": Damage: 2,5, Defense: 2, Energy Rate: 4 Move Speed: 2,5, Beast: False
 Character "Frango": Damage: 3,75, Defense: 3,2, Energy Rate: 3,2 Move Speed: 3, Beast: False
 Character "Frango": Damage: 6, Defense: 5, Energy Rate: 2,5 Move Speed: 3,5, Beast: False
@@ -696,7 +696,7 @@ Character "Jim Christmas": Damage: 12, Defense: 9, Energy Rate: 3,2 Move Speed: 
 Character "Jim Christmas": Damage: 16, Defense: 11, Energy Rate: 2,8 Move Speed: 4,5, Beast: False
 Character "Lyshira Xmas": Damage: 2, Defense: 3, Energy Rate: 4,2 Move Speed: 4, Beast: False
 Character "Lyshira Xmas": Damage: 4, Defense: 5, Energy Rate: 3,8 Move Speed: 4,5, Beast: False
-Character "Zoop": Damage: 9,25, Defense: 13, Energy Rate: 3 Move Speed: 4, Beast: False
+Character "Zoop Christmas": Damage: 9,25, Defense: 13, Energy Rate: 3 Move Speed: 4, Beast: False
 Character "Nenzo Christmas": Damage: 3,5, Defense: 3,5, Energy Rate: 4 Move Speed: 3, Beast: False
 Character "Nenzo Christmas": Damage: 5,5, Defense: 5,5, Energy Rate: 3,2 Move Speed: 4, Beast: False
 Character "Nenzo Christmas": Damage: 7,5, Defense: 7,5, Energy Rate: 2,8 Move Speed: 5, Beast: False
@@ -714,8 +714,8 @@ Character "Beast Halloween Master": Damage: 34, Defense: 12, Energy Rate: 2,5 Mo
 Character "Neff Toy": Damage: 1,75, Defense: 1,5, Energy Rate: 3,25 Move Speed: 2,75, Beast: False
 Character "Halloween Master": Damage: 10, Defense: 8, Energy Rate: 3,2 Move Speed: 4, Beast: False
 Character "Halloween Master": Damage: 17, Defense: 8, Energy Rate: 2,9 Move Speed: 4,5, Beast: False
-Character "Beast Sangh": Damage: 15,5, Defense: 10, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
-Character "Beast Sangh": Damage: 21,5, Defense: 10, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Sangh Halloween": Damage: 15,5, Defense: 10, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Sangh Halloween": Damage: 21,5, Defense: 10, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
 Character "Sangh Halloween": Damage: 7,75, Defense: 6,75, Energy Rate: 3,25 Move Speed: 2,75, Beast: False
 Character "Sangh Halloween": Damage: 10,75, Defense: 6,75, Energy Rate: 2,8 Move Speed: 3,75, Beast: False
 Character "Beast Erkkai Halloween": Damage: 17,5, Defense: 7,9, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
@@ -726,8 +726,8 @@ Character "Beast Tigre Halloween": Damage: 12,5, Defense: 7,75, Energy Rate: 2,5
 Character "Beast Tigre Halloween": Damage: 14,5, Defense: 7,5, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
 Character "Tigre Halloween": Damage: 6,25, Defense: 5, Energy Rate: 4 Move Speed: 3,5, Beast: False
 Character "Tigre Halloween": Damage: 7,25, Defense: 5, Energy Rate: 3,2 Move Speed: 4,5, Beast: False
-Character "Beast Dante": Damage: 11, Defense: 7,9, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
-Character "Beast Dante": Damage: 12, Defense: 7,9, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Dante Halloween": Damage: 11, Defense: 7,9, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Dante Halloween": Damage: 12, Defense: 7,9, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
 Character "Dante Halloween": Damage: 5,5, Defense: 5,25, Energy Rate: 4 Move Speed: 2,5, Beast: False
 Character "Dante Halloween": Damage: 6, Defense: 5,25, Energy Rate: 3,2 Move Speed: 3,25, Beast: False
 Character "Beast Hakkai Halloween": Damage: 12,5, Defense: 5,25, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
@@ -738,8 +738,8 @@ Character "Beast Erbito Halloween": Damage: 11, Defense: 6,75, Energy Rate: 2,5 
 Character "Beast Erbito Halloween": Damage: 13, Defense: 6,75, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
 Character "Erbito Halloween": Damage: 5,5, Defense: 4,5, Energy Rate: 4 Move Speed: 2,5, Beast: False
 Character "Erbito Halloween": Damage: 6,5, Defense: 4,5, Energy Rate: 3,2 Move Speed: 3,25, Beast: False
-Character "Beast Siegh Form 1": Damage: 11,5, Defense: 6,3, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
-Character "Beast Siegh Form 2": Damage: 13,5, Defense: 6,3, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Siegh Halloween Form 1": Damage: 11,5, Defense: 6,3, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
+Character "Beast Siegh Halloween Form 2": Damage: 13,5, Defense: 6,3, Energy Rate: 2,5 Move Speed: 1,4, Beast: True
 Character "Siegh Halloween": Damage: 5,75, Defense: 4,25, Energy Rate: 4 Move Speed: 2,5, Beast: False
 Character "Siegh Halloween": Damage: 6,75, Defense: 4,25, Energy Rate: 3,2 Move Speed: 3,5, Beast: False
 Character "Enzo (Mini)": Damage: 2, Defense: 1,75, Energy Rate: 4,5 Move Speed: 3,2, Beast: False
